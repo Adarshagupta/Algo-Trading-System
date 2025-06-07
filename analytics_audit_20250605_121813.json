@@ -1,0 +1,96 @@
+{
+  "timestamp": "2025-06-05T12:18:13.329111",
+  "results": {
+    "5001": {
+      "status": "running",
+      "data": {
+        "cash_balance": 99952350.74227686,
+        "daily_pnl": -0.5149164946988769,
+        "daily_pnl_percent": -5.148252672997491e-07,
+        "invested_amount": 65487.303252886406,
+        "largest_loser": -73.16477086519444,
+        "largest_winner": 14.5567435825742,
+        "losing_positions": 2,
+        "max_drawdown": 18.521902851362398,
+        "portfolio_growth": 0.017720070268943906,
+        "position_count": 5,
+        "sharpe_ratio": 155.90124767704344,
+        "timestamp": "Thu, 05 Jun 2025 12:18:13 GMT",
+        "total_commission": 87.51922218368436,
+        "total_unrealized_pnl": -46.46602863206658,
+        "total_unrealized_pnl_percent": -0.07095425574730557,
+        "total_value": 100017720.07026894,
+        "win_rate": 60.0,
+        "winning_positions": 3
+      },
+      "validation": {
+        "initial_balance_correct": true,
+        "growth_calculation_correct": true,
+        "position_math_correct": true,
+        "reasonable_values": true,
+        "data_consistency": true
+      }
+    },
+    "5002": {
+      "status": "running",
+      "data": {
+        "cash_balance": 99950332.81804688,
+        "daily_pnl": 1.5237617569895527,
+        "daily_pnl_percent": 1.5234314334607187e-06,
+        "invested_amount": 71496.63772831704,
+        "largest_loser": -80.43700969657948,
+        "largest_winner": 26.95871365868561,
+        "losing_positions": 2,
+        "max_drawdown": 0.02472205441597288,
+        "portfolio_growth": 0.02168286157019436,
+        "position_count": 5,
+        "sharpe_ratio": 205997.8438503442,
+        "timestamp": "Thu, 05 Jun 2025 12:18:13 GMT",
+        "total_commission": 95.53247099303773,
+        "total_unrealized_pnl": -36.91726209014996,
+        "total_unrealized_pnl_percent": -0.05163496251450782,
+        "total_value": 100021682.8615702,
+        "win_rate": 60.0,
+        "winning_positions": 3
+      },
+      "validation": {
+        "initial_balance_correct": true,
+        "growth_calculation_correct": true,
+        "position_math_correct": true,
+        "reasonable_values": true,
+        "data_consistency": true
+      }
+    },
+    "5003": {
+      "status": "running",
+      "data": {
+        "cash_balance": 458790411.9541141,
+        "daily_pnl": 1107.1092700712861,
+        "daily_pnl_percent": 0.00013528400856727178,
+        "invested_amount": 359149628.48554367,
+        "largest_loser": -357596.3371350169,
+        "largest_winner": -1.1149112510766557e-05,
+        "losing_positions": 5,
+        "max_drawdown": 0.00015411613083067622,
+        "portfolio_growth": 718.3593033619796,
+        "position_count": 5,
+        "sharpe_ratio": 71.35830526733542,
+        "timestamp": "Thu, 05 Jun 2025 12:18:13 GMT",
+        "total_commission": 359196.99297603953,
+        "total_unrealized_pnl": -419262.92234416376,
+        "total_unrealized_pnl_percent": -0.11673767396394223,
+        "total_value": 818359303.3619796,
+        "win_rate": 0.0,
+        "winning_positions": 0
+      },
+      "validation": {
+        "initial_balance_correct": true,
+        "growth_calculation_correct": true,
+        "position_math_correct": true,
+        "reasonable_values": true,
+        "data_consistency": true
+      }
+    }
+  },
+  "audit_summary": "Analytics calculation audit completed"
+}

@@ -1,0 +1,1382 @@
+🚀 REALISTIC $1000 TRADING DEMO
+============================================================
+📊 Real-time market data (500ms updates)
+💼 LIVE position tracking with P&L
+📈 Strategy signals (100ms analysis)
+💰 Realistic $1000 total budget
+🔄 Position tracking and management
+💱 Investment flow monitoring
+📋 Detailed trade execution
+⚡ Updates every 20ms
+🎯 0.1% profit targets with 0.1% stop losses
+🛡️ Smart risk management
+💰 Max position: $300 (30% of budget)
+🔒 Read-only API (completely safe)
+💰 Demo money only - NO REAL TRADING
+💼 Total Budget: $1,000
+============================================================
+
+🔧 Initializing FULL DETAILS System...
+📡 Testing Binance connection...
+✅ Connected! Server time: 2025-06-05 05:43:23.049000
+📊 Loading initial market data...
+💼 Initializing order manager...
+{"event": "Real demo order manager initialized with live market data", "logger": "real_demo_order_manager", "level": "info", "timestamp": "2025-06-05T00:13:24.235093Z"}
+📊 Setting up portfolio tracker...
+   💰 Config initial_balance: $1,000
+{"initial_balance": 1000.0, "event": "Portfolio tracker initialized", "logger": "portfolio_tracker", "level": "info", "timestamp": "2025-06-05T00:13:24.237281Z"}
+   ✅ Portfolio tracker initialized with $1,000
+   📊 Verification: Portfolio shows $1,000 total value
+   ✅ Verified: Portfolio correctly starts with $1000
+🎯 Loading strategies...
+  ✅ Mean reversion strategy
+  ✅ Momentum strategy
+{"event": "Take Profit Strategy initialized with 0.1% profit target", "logger": "take_profit", "level": "info", "timestamp": "2025-06-05T00:13:24.237969Z"}
+  ✅ Take profit strategy
+✅ FULL DETAILS System initialized!
+
+⚡ LIGHTNING-FAST Dashboard started at http://localhost:5003
+📊 Ultra-high frequency interface with ALL DETAILS!
+⚡ Updates every 500ms with LIGHTNING-FAST responsiveness!
+🎯 Strategy analysis 10x per second for instant execution!
+ * Serving Flask app 'full_details_demo'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.1.43:5003
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [05/Jun/2025 05:43:24] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:24] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:24] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:24] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:24] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:24] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:24] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:24] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:24] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:25] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:25] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:25] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:25] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:25] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:25] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:25] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:25] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:25] "GET /api/execution-log HTTP/1.1" 200 -
+
+📊 Starting with PURE $1000 cash - ZERO artificial positions
+✅ 100% authentic market data and trading
+✅ NO fake profits or demo positions
+✅ All P&L will be genuine from real trades
+💰 Total budget: $1000 - every dollar counts!
+
+📊 Starting REALISTIC $1000 trading...
+📊 Real-time interface active
+⚡ Waiting for genuine trading opportunities
+💹 All trades will be authentic market-based signals
+
+Press Ctrl+C to stop the system
+
+⚡ Starting BALANCED RISK/REWARD trading loop...
+📊 Market data: Every 500ms (2x per second)
+⚡ Portfolio updates: REAL-TIME
+⚡ Strategy analysis: Every 100ms (LIGHTNING-FAST - 10x per second!)
+🎯 Profit target: 0.8% (BALANCED GAINS)
+🛡️ Stop loss: 0.5% (PROPER RISK MANAGEMENT)
+📈 Trailing stops: 0.3% (PROFIT PROTECTION)
+⏰ Hold time: 2 minutes minimum, 4 hours maximum
+🔒 Max position: $2M | Max daily loss: $1M
+⚡ All details: LIGHTNING-FAST UPDATES
+127.0.0.1 - - [05/Jun/2025 05:43:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:26] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:26] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:26] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:26] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:26] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:26] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:26] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:26] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:26] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:27] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104788.2900 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/portfolio HTTP/1.1" 200 -
+📈 Analyzing ETHUSDT @ $2610.0000 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:28] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing ADAUSDT @ $0.6670 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing DOTUSDT @ $4.0090 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:29] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing LINKUSDT @ $13.8300 with 50 candles
+
+⚡ FULL STATUS - 05:43:30
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 1
+  💹 Live Prices:
+    📉 BTCUSDT: $104,788.2900 (-0.59%)
+    📈 ETHUSDT: $2,610.0000 (+0.54%)
+    📉 ADAUSDT: $0.6670 (-2.56%)
+    📉 LINKUSDT: $13.8300 (-2.05%)
+    📉 DOTUSDT: $4.0090 (-3.23%)
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:30] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:31] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104788.2900 with 50 candles
+📈 Analyzing ETHUSDT @ $2610.0000 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:32] "GET /api/execution-log HTTP/1.1" 200 -
+📈 Analyzing ADAUSDT @ $0.6670 with 50 candles
+📈 Analyzing DOTUSDT @ $4.0090 with 50 candles
+📈 Analyzing LINKUSDT @ $13.8300 with 50 candles
+
+⚡ FULL STATUS - 05:43:33
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 2
+  💹 Live Prices:
+    📉 BTCUSDT: $104,788.2900 (-0.59%)
+    📈 ETHUSDT: $2,610.0000 (+0.54%)
+    📉 ADAUSDT: $0.6670 (-2.54%)
+    📉 LINKUSDT: $13.8300 (-2.05%)
+    📉 DOTUSDT: $4.0090 (-3.23%)
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:33] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:34] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:35] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104788.2900 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:36] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing ETHUSDT @ $2609.9900 with 50 candles
+📈 Analyzing ADAUSDT @ $0.6669 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:37] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing DOTUSDT @ $4.0090 with 50 candles
+📈 Analyzing LINKUSDT @ $13.8300 with 50 candles
+
+⚡ FULL STATUS - 05:43:38
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 3
+  💹 Live Prices:
+    📉 BTCUSDT: $104,788.2900 (-0.58%)
+    📈 ETHUSDT: $2,609.9900 (+0.56%)
+    📉 ADAUSDT: $0.6669 (-2.54%)
+    📉 LINKUSDT: $13.8300 (-2.05%)
+    📉 DOTUSDT: $4.0090 (-3.21%)
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:38] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:39] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104788.2900 with 50 candles
+📈 Analyzing ETHUSDT @ $2610.0000 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:40] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing ADAUSDT @ $0.6669 with 50 candles
+📈 Analyzing DOTUSDT @ $4.0100 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:41] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing LINKUSDT @ $13.8300 with 50 candles
+
+⚡ FULL STATUS - 05:43:42
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 4
+  💹 Live Prices:
+    📉 BTCUSDT: $104,788.2900 (-0.58%)
+    📈 ETHUSDT: $2,610.0000 (+0.54%)
+    📉 ADAUSDT: $0.6669 (-2.57%)
+    📉 LINKUSDT: $13.8300 (-2.05%)
+    📉 DOTUSDT: $4.0100 (-3.21%)
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:42] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:43] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104788.2900 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:44] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing ETHUSDT @ $2609.9900 with 50 candles
+📈 Analyzing ADAUSDT @ $0.6669 with 50 candles
+📈 Analyzing DOTUSDT @ $4.0100 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:45] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing LINKUSDT @ $13.8300 with 50 candles
+
+⚡ FULL STATUS - 05:43:46
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 5
+  💹 Live Prices:
+    📉 BTCUSDT: $104,788.2900 (-0.58%)
+    📈 ETHUSDT: $2,609.9900 (+0.55%)
+    📉 ADAUSDT: $0.6669 (-2.57%)
+    📉 LINKUSDT: $13.8300 (-2.05%)
+    📉 DOTUSDT: $4.0100 (-3.21%)
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:46] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:47] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104788.2900 with 50 candles
+📈 Analyzing ETHUSDT @ $2610.0000 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:48] "GET /api/execution-log HTTP/1.1" 200 -
+📈 Analyzing ADAUSDT @ $0.6669 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:49] "GET /api/execution-log HTTP/1.1" 200 -
+📈 Analyzing DOTUSDT @ $4.0100 with 50 candles
+📈 Analyzing LINKUSDT @ $13.8300 with 50 candles
+
+⚡ FULL STATUS - 05:43:50
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 6
+  💹 Live Prices:
+    📉 BTCUSDT: $104,788.2900 (-0.58%)
+    📈 ETHUSDT: $2,610.0000 (+0.57%)
+    📉 ADAUSDT: $0.6669 (-2.57%)
+    📉 LINKUSDT: $13.8300 (-2.05%)
+    📉 DOTUSDT: $4.0100 (-3.19%)
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:50] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:51] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104781.2400 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:52] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing ETHUSDT @ $2608.8900 with 50 candles
+📈 Analyzing ADAUSDT @ $0.6665 with 50 candles
+📈 Analyzing DOTUSDT @ $4.0080 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:53] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing LINKUSDT @ $13.8300 with 50 candles
+
+⚡ FULL STATUS - 05:43:54
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 7
+  💹 Live Prices:
+    📉 BTCUSDT: $104,781.2400 (-0.56%)
+    📈 ETHUSDT: $2,608.8900 (+0.54%)
+    📉 ADAUSDT: $0.6665 (-2.60%)
+    📉 LINKUSDT: $13.8300 (-2.05%)
+    📉 DOTUSDT: $4.0080 (-3.21%)
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:54] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:55] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104781.2300 with 50 candles
+📈 Analyzing ETHUSDT @ $2608.8900 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:56] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing ADAUSDT @ $0.6665 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:57] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing DOTUSDT @ $4.0080 with 50 candles
+📈 Analyzing LINKUSDT @ $13.8300 with 50 candles
+
+⚡ FULL STATUS - 05:43:58
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 8
+  💹 Live Prices:
+    📉 BTCUSDT: $104,781.2300 (-0.55%)
+    📈 ETHUSDT: $2,608.8900 (+0.56%)
+    📉 ADAUSDT: $0.6665 (-2.57%)
+    📉 LINKUSDT: $13.8300 (-2.05%)
+    📉 DOTUSDT: $4.0080 (-3.19%)
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:58] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:43:59] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104781.2400 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:00] "GET /api/currency-allocations HTTP/1.1" 200 -
+📈 Analyzing ETHUSDT @ $2609.2000 with 51 candles
+📈 Analyzing ADAUSDT @ $0.6667 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:01] "GET /api/currency-allocations HTTP/1.1" 200 -
+📈 Analyzing DOTUSDT @ $4.0090 with 50 candles
+📈 Analyzing LINKUSDT @ $13.8200 with 50 candles
+
+⚡ FULL STATUS - 05:44:02
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 9
+  💹 Live Prices:
+    📉 BTCUSDT: $104,781.2400 (-0.55%)
+    📈 ETHUSDT: $2,609.2000 (+0.56%)
+    📉 ADAUSDT: $0.6667 (-2.57%)
+    📉 LINKUSDT: $13.8200 (-2.12%)
+    📉 DOTUSDT: $4.0090 (-3.19%)
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:02] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:03] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104781.2400 with 50 candles
+📈 Analyzing ETHUSDT @ $2609.2900 with 50 candles
+📈 Analyzing ADAUSDT @ $0.6665 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:04] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing DOTUSDT @ $4.0090 with 50 candles
+📈 Analyzing LINKUSDT @ $13.8200 with 50 candles
+
+⚡ FULL STATUS - 05:44:05
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 10
+  💹 Live Prices:
+    📉 BTCUSDT: $104,781.2400 (-0.55%)
+    📈 ETHUSDT: $2,609.2900 (+0.56%)
+    📉 ADAUSDT: $0.6665 (-2.60%)
+    📉 LINKUSDT: $13.8200 (-2.12%)
+    📉 DOTUSDT: $4.0090 (-3.19%)
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:05] "GET /api/execution-log HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104781.2300 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:06] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing ETHUSDT @ $2609.2900 with 50 candles
+📈 Analyzing ADAUSDT @ $0.6665 with 50 candles
+📈 Analyzing DOTUSDT @ $4.0090 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:07] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:07] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:07] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:07] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:07] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:07] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:07] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:07] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:07] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing LINKUSDT @ $13.8200 with 50 candles
+
+⚡ FULL STATUS - 05:44:07
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 11
+  💹 Live Prices:
+    📉 BTCUSDT: $104,781.2300 (-0.55%)
+    📈 ETHUSDT: $2,609.2900 (+0.56%)
+    📉 ADAUSDT: $0.6665 (-2.60%)
+    📉 LINKUSDT: $13.8200 (-2.12%)
+    📉 DOTUSDT: $4.0090 (-3.16%)
+127.0.0.1 - - [05/Jun/2025 05:44:08] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:08] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:08] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:08] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:08] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:08] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:08] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:08] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:08] "GET /api/execution-log HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104781.2400 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing ETHUSDT @ $2609.2900 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:09] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing ADAUSDT @ $0.6665 with 50 candles
+📈 Analyzing DOTUSDT @ $4.0090 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing LINKUSDT @ $13.8200 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:10] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104781.2400 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:11] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing ETHUSDT @ $2609.3000 with 50 candles
+📈 Analyzing ADAUSDT @ $0.6665 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing DOTUSDT @ $4.0090 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:12] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing LINKUSDT @ $13.8200 with 50 candles
+
+⚡ FULL STATUS - 05:44:12
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 13
+  💹 Live Prices:
+    📉 BTCUSDT: $104,781.2400 (-0.55%)
+    📈 ETHUSDT: $2,609.3000 (+0.55%)
+    📉 ADAUSDT: $0.6665 (-2.62%)
+    📉 LINKUSDT: $13.8200 (-2.12%)
+    📉 DOTUSDT: $4.0090 (-3.16%)
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:13] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104781.2300 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET / HTTP/1.1" 200 -
+📈 Analyzing ETHUSDT @ $2608.9000 with 50 candles
+📈 Analyzing ADAUSDT @ $0.6663 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:14] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing DOTUSDT @ $4.0090 with 50 candles
+📈 Analyzing LINKUSDT @ $13.8200 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:15] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:16] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/currency-allocations HTTP/1.1" 200 -
+📈 Analyzing BTCUSDT @ $104781.2400 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing ETHUSDT @ $2608.7800 with 50 candles
+📈 Analyzing ADAUSDT @ $0.6662 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:17] "GET /api/portfolio-history HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:18] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:18] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:18] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:18] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:18] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:18] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:18] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:18] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:18] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing DOTUSDT @ $4.0090 with 50 candles
+📈 Analyzing LINKUSDT @ $13.8200 with 50 candles
+
+⚡ FULL STATUS - 05:44:18
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 15
+  💹 Live Prices:
+    📉 BTCUSDT: $104,781.2400 (-0.55%)
+    📈 ETHUSDT: $2,608.7800 (+0.56%)
+    📉 ADAUSDT: $0.6662 (-2.65%)
+    📉 LINKUSDT: $13.8200 (-2.12%)
+    📉 DOTUSDT: $4.0090 (-3.14%)
+📈 Analyzing BTCUSDT @ $104781.2300 with 50 candles
+📈 Analyzing ETHUSDT @ $2608.7900 with 50 candles
+
+🛑 EMERGENCY STOP TRIGGERED!
+⚠️ Halting all trading activity immediately...
+📋 Cancelling any pending orders...
+✅ Emergency stop completed - All trading halted!
+💡 System can be restarted by refreshing the page
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "POST /api/emergency-stop HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing ADAUSDT @ $0.6662 with 50 candles
+📈 Analyzing DOTUSDT @ $4.0090 with 50 candles
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/system-status HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/position-events HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/investment-flows HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/currency-allocations HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/execution-log HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 05:44:20] "GET /api/portfolio-history HTTP/1.1" 200 -
+📈 Analyzing LINKUSDT @ $13.8200 with 50 candles
+
+⚡ FULL STATUS - 05:44:21
+  💼 Portfolio: $1,000
+  📈 Growth: +0.00%
+  💰 P&L: $+0
+  🔄 Trades: 0
+  📊 Positions: 0
+  ⚡ Updates: 16
+  💹 Live Prices:
+    📉 BTCUSDT: $104,781.2300 (-0.55%)
+    📈 ETHUSDT: $2,608.7900 (+0.56%)
+    📉 ADAUSDT: $0.6662 (-2.59%)
+    📉 LINKUSDT: $13.8200 (-2.12%)
+    📉 DOTUSDT: $4.0090 (-3.14%)

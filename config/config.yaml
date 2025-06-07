@@ -1,0 +1,147 @@
+# Binance Configuration for Real-time Market Data
+binance:
+  api_key: "GKEYgU4j5FdiCx10Vj6fUNnrZZNpLKHM1QuYPhs9xkgOlvm9DNTcGiNjRfNMf8Xb"
+  api_secret: "vt5H5Rd0DKKakiA2GGiQSmbF6rvD76Ju8ZIMitcUZQeZniTqBNHGiebsEd4MmBOR"
+  testnet: false  # Using live Binance (read-only permissions)
+
+# Trading Configuration
+trading:
+  symbols: [
+    # Major Cryptocurrencies
+    "BTCUSDT", "ETHUSDT", "BNBUSDT", "ADAUSDT", "SOLUSDT",
+    # Layer 1 Blockchains
+    "DOTUSDT", "AVAXUSDT", "MATICUSDT", "ATOMUSDT", "NEARUSDT",
+    # DeFi & Smart Contract Platforms
+    "LINKUSDT", "UNIUSDT", "AAVEUSDT", "CRVUSDT", "COMPUSDT",
+    # Layer 2 & Scaling Solutions
+    "ARBUSDT", "OPUSDT", "LTCUSDT", "BCHUSDT", "ETCUSDT",
+    # Meme Coins & Community Tokens
+    "DOGEUSDT", "SHIBUSDT", "PEPEUSDT", "FLOKIUSDT", "BONKUSDT",
+    # Gaming & Metaverse
+    "SANDUSDT", "MANAUSDT", "AXSUSDT", "ENJUSDT", "GALAUSDT",
+    # DeFi Protocols
+    "MKRUSDT", "SNXUSDT", "YFIUSDT", "1INCHUSDT", "SUSHIUSDT",
+    # Enterprise & Institutional
+    "XLMUSDT", "XRPUSDT", "TRXUSDT", "VETUSDT", "HBARUSDT",
+    # AI & Data
+    "FETUSDT", "OCEANUSDT", "AGIXUSDT", "RNDRUSDT", "THETAUSDT",
+    # Storage & Infrastructure  
+    "FILUSDT", "ARUSDT", "STXUSDT", "ICPUSDT", "ALGOUSDT",
+    # Privacy Coins
+    "XMRUSDT", "ZECUSDT", "DASHUSDT", "SCRTUSDT",
+    # Emerging Ecosystems
+    "APTUSDT", "SUIUSDT", "INJUSDT", "TIAUSDT", "SEIUSDT"
+  ]
+  timeframes: ["1MIN", "5MIN", "15MIN"]
+  max_positions: 15  # Increased for more crypto coverage
+  base_currency: "USDT"
+  initial_balance: 100000000.0  # Starting with $100M demo money
+
+# Strategy Parameters - SCALPING MODE ($1000 trades, 0.1% targets)
+strategies:
+  mean_reversion:
+    enabled: true
+    position_size: 0.00001          # $1000 per trade ($1000 / $100M = 0.00001)
+    lookback_period: 10      # Shorter for scalping
+    std_dev_threshold: 1.2   # Lower threshold for more signals
+    max_positions: 8         # Increased for more crypto coverage
+    rsi_period: 14
+    rsi_oversold: 35         # Less extreme for scalping
+    rsi_overbought: 65       # Less extreme for scalping
+    min_volume: 500000       # Lower volume requirement
+  
+  momentum:
+    enabled: true
+    position_size: 0.00001          # $1000 per trade ($1000 / $100M = 0.00001)
+    fast_ma: 3               # Faster for scalping
+    slow_ma: 8               # Faster for scalping
+    ema_short: 5             # Faster EMAs
+    ema_long: 13             # Faster EMAs
+    max_positions: 8         # Increased for more crypto coverage
+    min_volume: 500000       # Lower volume requirement
+    rsi_oversold: 35         # Less extreme
+    rsi_overbought: 65       # Less extreme
+  
+  take_profit:
+    enabled: true                    # ENABLED for scalping
+    profit_target_percent: 0.1       # 0.1% profit target (SCALPING)
+    stop_loss_percent: -0.1          # 0.1% stop loss (TIGHT RISK)
+    trailing_stop_percent: 0.05      # 0.05% trailing stop
+    min_hold_time_minutes: 0         # No minimum hold time for scalping
+    max_hold_time_hours: 1           # Maximum 1 hour hold
+    position_size: 1.0               # Sell 100% when triggered
+    risk_reward_ratio: 1.0           # 1:1 risk/reward for scalping
+
+# Risk Management - SCALPING MODE
+risk:
+  max_portfolio_risk: 0.00005       # 0.005% max portfolio risk per $1000 trade
+  max_daily_loss: 0.001             # 0.1% max daily loss ($100K max daily loss)
+  max_position_size: 0.00001        # $1000 max position size per trade
+  stop_loss: 0.001                  # 0.1% stop loss (tight scalping control)
+  take_profit: 0.001                # 0.1% take profit (scalping target)
+  max_open_positions: 15            # Increased for more crypto coverage
+  max_leverage: 1.0                 # No leverage for safety
+  position_correlation_limit: 0.9   # Allow more correlated small positions
+  max_consecutive_losses: 5         # Stop after 5 consecutive losses
+
+# Data Configuration
+data:
+  tick_data_retention_days: 7
+  candle_data_retention_days: 30
+  enable_real_time: true
+  websocket_timeout: 30
+
+# Logging
+logging:
+  level: "INFO"
+  log_to_file: true
+  log_rotation: "daily"
+  max_log_files: 30
+
+# Performance Monitoring
+monitoring:
+  enable_metrics: true
+  latency_threshold_ms: 50
+  memory_threshold_mb: 1000
+  cpu_threshold_percent: 80
+
+# Options Trading Configuration
+options:
+  enabled: true
+  risk_free_rate: 0.05          # 5% risk-free rate
+  max_days_to_expiry: 45        # Maximum days to expiration
+  min_days_to_expiry: 7         # Minimum days to expiration
+  max_implied_volatility: 2.0   # Maximum 200% IV
+  min_implied_volatility: 0.1   # Minimum 10% IV
+  
+  # Position sizing and risk management
+  max_position_size: 10         # Maximum contracts per position
+  max_delta_exposure: 5.0       # Maximum portfolio delta
+  max_gamma_exposure: 2.0       # Maximum portfolio gamma
+  max_options_positions: 20     # Maximum total options positions
+  
+  # Strategy configuration
+  strategies:
+    momentum_breakout:
+      enabled: true
+      min_delta: 0.3            # Minimum delta for momentum plays
+      position_size: 5          # Contracts per signal
+    
+    mean_reversion:
+      enabled: true
+      iv_threshold_multiplier: 1.5  # Sell when IV > historical_vol * 1.5
+      max_dte: 21               # Maximum days to expiry for premium selling
+      
+    volatility_trading:
+      enabled: true
+      long_straddle_iv_threshold: 0.8   # Buy straddle when IV < hist_vol * 0.8
+      short_straddle_iv_threshold: 1.2  # Sell straddle when IV > hist_vol * 1.2
+      
+    delta_neutral:
+      enabled: true
+      min_gamma: 0.02           # Minimum gamma for scalping
+      max_dte: 14               # Maximum days for gamma scalping
+      
+    earnings_plays:
+      enabled: true
+      min_iv_for_earnings: 1.0  # Minimum IV to detect earnings premium 

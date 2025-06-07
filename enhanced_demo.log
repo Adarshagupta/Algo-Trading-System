@@ -1,0 +1,1633 @@
+🧠 ENHANCED TRADING DEMO WITH INTEGRATED MIND READER
+================================================================================
+🔬 Real-time algorithm decision monitoring integrated
+📊 Every algorithm thought tracked and displayed
+⚡ Microsecond-level decision transparency
+🎯 Complete trading system with mind reading
+💼 Portfolio: $100,000,000
+================================================================================
+{"event": "Real demo order manager initialized with live market data", "logger": "real_demo_order_manager", "level": "info", "timestamp": "2025-06-05T07:10:59.018875Z"}
+{"initial_balance": 100000000.0, "event": "Portfolio tracker initialized", "logger": "portfolio_tracker", "level": "info", "timestamp": "2025-06-05T07:10:59.020866Z"}
+{"event": "Take Profit Strategy initialized with 0.1% profit target", "logger": "take_profit", "level": "info", "timestamp": "2025-06-05T07:10:59.021204Z"}
+
+🧠 ENHANCED Dashboard with Mind Reader started at http://localhost:5003
+📊 Real-time trading + algorithm thought monitoring!
+ * Serving Flask app 'full_details_demo_with_mind_reader'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.1.43:5003
+[33mPress CTRL+C to quit[0m
+
+🧠 Starting ENHANCED DEMO with integrated mind reader...
+📊 Full trading system + real-time algorithm thoughts
+⚡ Every decision, calculation, and thought monitored
+🎯 Complete transparency into algorithm decision making
+
+Press Ctrl+C to stop the system
+127.0.0.1 - - [05/Jun/2025 12:41:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:02] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:02] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:02] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:02] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:02] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:04] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:04] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:04] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:04] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:04] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:06] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:06] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:06] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:06] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:06] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:08] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:08] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:08] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:08] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:08] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:10] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:10] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:10] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:10] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:10] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:12] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:12] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:12] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:12] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:12] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:14] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:14] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:14] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:14] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:14] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:16] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:16] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:16] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:16] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:16] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+🧠 12:41:16.646 | SIGNAL     | BTCUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.646 | RISK       | BTCUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.646 | RISK       | BTCUSDT  | Position check: 0/15
+🧠 12:41:16.646 | RISK       | BTCUSDT  | Max position size: $5,000,000
+🧠 12:41:16.646 | RISK       | BTCUSDT  | Risk score: 0.117
+🧠 12:41:16.646 | EXECUTION  | BTCUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.646 | EXECUTION  | BTCUSDT  | Order details: 47.829086 BTC
+🧠 12:41:16.646 | EXECUTION  | BTCUSDT  | Order executed: DEMO_BTCUSDT_1749107476
+🧠 12:41:16.646 | SIGNAL     | ETHUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:16.646 | RISK       | ETHUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.646 | RISK       | ETHUSDT  | Position check: 0/15
+🧠 12:41:16.646 | RISK       | ETHUSDT  | Max position size: $5,000,000
+🧠 12:41:16.646 | RISK       | ETHUSDT  | Risk score: 0.117
+🧠 12:41:16.646 | EXECUTION  | ETHUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.646 | EXECUTION  | ETHUSDT  | Order details: 1916.171336 ETH
+🧠 12:41:16.646 | EXECUTION  | ETHUSDT  | Order executed: DEMO_ETHUSDT_1749107476
+🧠 12:41:16.646 | SIGNAL     | BNBUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.646 | RISK       | BNBUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.646 | RISK       | BNBUSDT  | Position check: 0/15
+🧠 12:41:16.646 | RISK       | BNBUSDT  | Max position size: $5,000,000
+🧠 12:41:16.646 | RISK       | BNBUSDT  | Risk score: 0.117
+🧠 12:41:16.646 | EXECUTION  | BNBUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.646 | EXECUTION  | BNBUSDT  | Order details: 7488.505145 BNB
+🧠 12:41:16.646 | EXECUTION  | BNBUSDT  | Order executed: DEMO_BNBUSDT_1749107476
+🧠 12:41:16.646 | SIGNAL     | ADAUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:16.646 | RISK       | ADAUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.646 | RISK       | ADAUSDT  | Position check: 0/15
+🧠 12:41:16.646 | RISK       | ADAUSDT  | Max position size: $5,000,000
+🧠 12:41:16.646 | RISK       | ADAUSDT  | Risk score: 0.117
+🧠 12:41:16.646 | EXECUTION  | ADAUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.646 | EXECUTION  | ADAUSDT  | Order details: 7381163.271332 ADA
+🧠 12:41:16.646 | EXECUTION  | ADAUSDT  | Order executed: DEMO_ADAUSDT_1749107476
+🧠 12:41:16.646 | SIGNAL     | SOLUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.646 | RISK       | SOLUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.647 | RISK       | SOLUSDT  | Position check: 0/15
+🧠 12:41:16.647 | RISK       | SOLUSDT  | Max position size: $5,000,000
+🧠 12:41:16.647 | RISK       | SOLUSDT  | Risk score: 0.117
+🧠 12:41:16.647 | EXECUTION  | SOLUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.647 | EXECUTION  | SOLUSDT  | Order details: 32827.785438 SOL
+🧠 12:41:16.647 | EXECUTION  | SOLUSDT  | Order executed: DEMO_SOLUSDT_1749107476
+🧠 12:41:16.647 | SIGNAL     | DOTUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.647 | RISK       | DOTUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.647 | RISK       | DOTUSDT  | Position check: 0/15
+🧠 12:41:16.647 | RISK       | DOTUSDT  | Max position size: $5,000,000
+🧠 12:41:16.647 | RISK       | DOTUSDT  | Risk score: 0.117
+🧠 12:41:16.647 | EXECUTION  | DOTUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.647 | EXECUTION  | DOTUSDT  | Order details: 1244400.199104 DOT
+🧠 12:41:16.647 | EXECUTION  | DOTUSDT  | Order executed: DEMO_DOTUSDT_1749107476
+🧠 12:41:16.647 | SIGNAL     | AVAXUSDT | SELL signal (conf: 0.95)
+🧠 12:41:16.647 | RISK       | AVAXUSDT | Assessing risk for SELL signal
+🧠 12:41:16.647 | RISK       | AVAXUSDT | Position check: 0/15
+🧠 12:41:16.647 | RISK       | AVAXUSDT | Max position size: $5,000,000
+🧠 12:41:16.647 | RISK       | AVAXUSDT | Risk score: 0.117
+🧠 12:41:16.647 | EXECUTION  | AVAXUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:16.647 | EXECUTION  | AVAXUSDT | Order details: 248508.946322 AVA
+🧠 12:41:16.647 | EXECUTION  | AVAXUSDT | Order executed: DEMO_AVAXUSDT_1749107476
+🧠 12:41:16.647 | SIGNAL     | MATICUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.647 | RISK       | MATICUSDT | Assessing risk for BUY signal
+🧠 12:41:16.647 | RISK       | MATICUSDT | Position check: 0/15
+🧠 12:41:16.647 | RISK       | MATICUSDT | Max position size: $5,000,000
+🧠 12:41:16.647 | RISK       | MATICUSDT | Risk score: 0.117
+🧠 12:41:16.647 | EXECUTION  | MATICUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.647 | EXECUTION  | MATICUSDT | Order details: 13178703.215604 MAT
+🧠 12:41:16.647 | EXECUTION  | MATICUSDT | Order executed: DEMO_MATICUSDT_1749107476
+🧠 12:41:16.647 | SIGNAL     | ATOMUSDT | SELL signal (conf: 0.95)
+🧠 12:41:16.647 | RISK       | ATOMUSDT | Assessing risk for SELL signal
+🧠 12:41:16.647 | RISK       | ATOMUSDT | Position check: 0/15
+🧠 12:41:16.647 | RISK       | ATOMUSDT | Max position size: $5,000,000
+🧠 12:41:16.647 | RISK       | ATOMUSDT | Risk score: 0.117
+🧠 12:41:16.647 | EXECUTION  | ATOMUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:16.647 | EXECUTION  | ATOMUSDT | Order details: 1163331.782224 ATO
+🧠 12:41:16.647 | EXECUTION  | ATOMUSDT | Order executed: DEMO_ATOMUSDT_1749107476
+🧠 12:41:16.647 | SIGNAL     | NEARUSDT | SELL signal (conf: 0.95)
+🧠 12:41:16.647 | RISK       | NEARUSDT | Assessing risk for SELL signal
+🧠 12:41:16.647 | RISK       | NEARUSDT | Position check: 0/15
+🧠 12:41:16.647 | RISK       | NEARUSDT | Max position size: $5,000,000
+🧠 12:41:16.647 | RISK       | NEARUSDT | Risk score: 0.117
+🧠 12:41:16.647 | EXECUTION  | NEARUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:16.647 | EXECUTION  | NEARUSDT | Order details: 2050861.361772 NEA
+🧠 12:41:16.647 | EXECUTION  | NEARUSDT | Order executed: DEMO_NEARUSDT_1749107476
+🧠 12:41:16.647 | SIGNAL     | LINKUSDT | SELL signal (conf: 0.95)
+🧠 12:41:16.647 | RISK       | LINKUSDT | Assessing risk for SELL signal
+🧠 12:41:16.647 | RISK       | LINKUSDT | Position check: 0/15
+🧠 12:41:16.647 | RISK       | LINKUSDT | Max position size: $5,000,000
+🧠 12:41:16.647 | RISK       | LINKUSDT | Risk score: 0.117
+🧠 12:41:16.647 | EXECUTION  | LINKUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:16.647 | EXECUTION  | LINKUSDT | Order details: 363636.363636 LIN
+🧠 12:41:16.647 | EXECUTION  | LINKUSDT | Order executed: DEMO_LINKUSDT_1749107476
+🧠 12:41:16.647 | SIGNAL     | UNIUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.647 | RISK       | UNIUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.647 | RISK       | UNIUSDT  | Position check: 0/15
+🧠 12:41:16.647 | RISK       | UNIUSDT  | Max position size: $5,000,000
+🧠 12:41:16.647 | RISK       | UNIUSDT  | Risk score: 0.117
+🧠 12:41:16.647 | EXECUTION  | UNIUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.647 | EXECUTION  | UNIUSDT  | Order details: 796431.984709 UNI
+🧠 12:41:16.647 | EXECUTION  | UNIUSDT  | Order executed: DEMO_UNIUSDT_1749107476
+🧠 12:41:16.647 | SIGNAL     | AAVEUSDT | SELL signal (conf: 0.95)
+🧠 12:41:16.647 | RISK       | AAVEUSDT | Assessing risk for SELL signal
+🧠 12:41:16.647 | RISK       | AAVEUSDT | Position check: 0/15
+🧠 12:41:16.647 | RISK       | AAVEUSDT | Max position size: $5,000,000
+🧠 12:41:16.647 | RISK       | AAVEUSDT | Risk score: 0.117
+🧠 12:41:16.647 | EXECUTION  | AAVEUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:16.647 | EXECUTION  | AAVEUSDT | Order details: 18976.052222 AAV
+🧠 12:41:16.647 | EXECUTION  | AAVEUSDT | Order executed: DEMO_AAVEUSDT_1749107476
+🧠 12:41:16.648 | SIGNAL     | CRVUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:16.648 | RISK       | CRVUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.648 | RISK       | CRVUSDT  | Position check: 0/15
+🧠 12:41:16.648 | RISK       | CRVUSDT  | Max position size: $5,000,000
+🧠 12:41:16.648 | RISK       | CRVUSDT  | Risk score: 0.117
+🧠 12:41:16.648 | EXECUTION  | CRVUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.648 | EXECUTION  | CRVUSDT  | Order details: 7922674.694977 CRV
+🧠 12:41:16.648 | EXECUTION  | CRVUSDT  | Order executed: DEMO_CRVUSDT_1749107476
+🧠 12:41:16.648 | SIGNAL     | COMPUSDT | SELL signal (conf: 0.95)
+🧠 12:41:16.648 | RISK       | COMPUSDT | Assessing risk for SELL signal
+🧠 12:41:16.648 | RISK       | COMPUSDT | Position check: 0/15
+🧠 12:41:16.648 | RISK       | COMPUSDT | Max position size: $5,000,000
+🧠 12:41:16.648 | RISK       | COMPUSDT | Risk score: 0.117
+🧠 12:41:16.648 | EXECUTION  | COMPUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:16.648 | EXECUTION  | COMPUSDT | Order details: 115048.320295 COM
+🧠 12:41:16.648 | EXECUTION  | COMPUSDT | Order executed: DEMO_COMPUSDT_1749107476
+🧠 12:41:16.648 | SIGNAL     | ARBUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:16.648 | RISK       | ARBUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.648 | RISK       | ARBUSDT  | Position check: 0/15
+🧠 12:41:16.648 | RISK       | ARBUSDT  | Max position size: $5,000,000
+🧠 12:41:16.648 | RISK       | ARBUSDT  | Risk score: 0.117
+🧠 12:41:16.648 | EXECUTION  | ARBUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.648 | EXECUTION  | ARBUSDT  | Order details: 14136273.678258 ARB
+🧠 12:41:16.648 | EXECUTION  | ARBUSDT  | Order executed: DEMO_ARBUSDT_1749107476
+🧠 12:41:16.648 | SIGNAL     | OPUSDT   | BUY signal (conf: 0.95)
+🧠 12:41:16.648 | RISK       | OPUSDT   | Assessing risk for BUY signal
+🧠 12:41:16.648 | RISK       | OPUSDT   | Position check: 0/15
+🧠 12:41:16.648 | RISK       | OPUSDT   | Max position size: $5,000,000
+🧠 12:41:16.648 | RISK       | OPUSDT   | Risk score: 0.117
+🧠 12:41:16.648 | EXECUTION  | OPUSDT   | Preparing BUY order for $5,000,000
+🧠 12:41:16.648 | EXECUTION  | OPUSDT   | Order details: 7923930.269414 OPU
+🧠 12:41:16.648 | EXECUTION  | OPUSDT   | Order executed: DEMO_OPUSDT_1749107476
+🧠 12:41:16.648 | SIGNAL     | LTCUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.648 | RISK       | LTCUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.648 | RISK       | LTCUSDT  | Position check: 0/15
+🧠 12:41:16.648 | RISK       | LTCUSDT  | Max position size: $5,000,000
+🧠 12:41:16.648 | RISK       | LTCUSDT  | Risk score: 0.117
+🧠 12:41:16.648 | EXECUTION  | LTCUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.648 | EXECUTION  | LTCUSDT  | Order details: 57201.693170 LTC
+🧠 12:41:16.648 | EXECUTION  | LTCUSDT  | Order executed: DEMO_LTCUSDT_1749107476
+🧠 12:41:16.648 | SIGNAL     | BCHUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.648 | RISK       | BCHUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.648 | RISK       | BCHUSDT  | Position check: 0/15
+🧠 12:41:16.648 | RISK       | BCHUSDT  | Max position size: $5,000,000
+🧠 12:41:16.648 | RISK       | BCHUSDT  | Risk score: 0.117
+🧠 12:41:16.648 | EXECUTION  | BCHUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.648 | EXECUTION  | BCHUSDT  | Order details: 12450.199203 BCH
+🧠 12:41:16.648 | EXECUTION  | BCHUSDT  | Order executed: DEMO_BCHUSDT_1749107476
+🧠 12:41:16.648 | SIGNAL     | ETCUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.648 | RISK       | ETCUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.648 | RISK       | ETCUSDT  | Position check: 0/15
+🧠 12:41:16.648 | RISK       | ETCUSDT  | Max position size: $5,000,000
+🧠 12:41:16.648 | RISK       | ETCUSDT  | Risk score: 0.117
+🧠 12:41:16.648 | EXECUTION  | ETCUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.648 | EXECUTION  | ETCUSDT  | Order details: 290191.526407 ETC
+🧠 12:41:16.648 | EXECUTION  | ETCUSDT  | Order executed: DEMO_ETCUSDT_1749107476
+🧠 12:41:16.648 | SIGNAL     | DOGEUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.648 | RISK       | DOGEUSDT | Assessing risk for BUY signal
+🧠 12:41:16.648 | RISK       | DOGEUSDT | Position check: 0/15
+🧠 12:41:16.648 | RISK       | DOGEUSDT | Max position size: $5,000,000
+🧠 12:41:16.648 | RISK       | DOGEUSDT | Risk score: 0.117
+🧠 12:41:16.648 | EXECUTION  | DOGEUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.648 | EXECUTION  | DOGEUSDT | Order details: 26547732.823617 DOG
+🧠 12:41:16.648 | EXECUTION  | DOGEUSDT | Order executed: DEMO_DOGEUSDT_1749107476
+🧠 12:41:16.648 | SIGNAL     | SHIBUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.648 | RISK       | SHIBUSDT | Assessing risk for BUY signal
+🧠 12:41:16.649 | RISK       | SHIBUSDT | Position check: 0/15
+🧠 12:41:16.649 | RISK       | SHIBUSDT | Max position size: $5,000,000
+🧠 12:41:16.649 | RISK       | SHIBUSDT | Risk score: 0.117
+🧠 12:41:16.649 | EXECUTION  | SHIBUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.649 | EXECUTION  | SHIBUSDT | Order details: 391849529780.564270 SHI
+🧠 12:41:16.649 | EXECUTION  | SHIBUSDT | Order executed: DEMO_SHIBUSDT_1749107476
+🧠 12:41:16.649 | SIGNAL     | PEPEUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.649 | RISK       | PEPEUSDT | Assessing risk for BUY signal
+🧠 12:41:16.649 | RISK       | PEPEUSDT | Position check: 0/15
+🧠 12:41:16.649 | RISK       | PEPEUSDT | Max position size: $5,000,000
+🧠 12:41:16.649 | RISK       | PEPEUSDT | Risk score: 0.117
+🧠 12:41:16.649 | EXECUTION  | PEPEUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.649 | EXECUTION  | PEPEUSDT | Order details: 425894378194.207886 PEP
+🧠 12:41:16.649 | EXECUTION  | PEPEUSDT | Order executed: DEMO_PEPEUSDT_1749107476
+🧠 12:41:16.649 | SIGNAL     | FLOKIUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.649 | RISK       | FLOKIUSDT | Assessing risk for BUY signal
+🧠 12:41:16.649 | RISK       | FLOKIUSDT | Position check: 0/15
+🧠 12:41:16.649 | RISK       | FLOKIUSDT | Max position size: $5,000,000
+🧠 12:41:16.649 | RISK       | FLOKIUSDT | Risk score: 0.117
+🧠 12:41:16.649 | EXECUTION  | FLOKIUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.649 | EXECUTION  | FLOKIUSDT | Order details: 61304561059.342819 FLO
+🧠 12:41:16.649 | EXECUTION  | FLOKIUSDT | Order executed: DEMO_FLOKIUSDT_1749107476
+🧠 12:41:16.649 | SIGNAL     | BONKUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.649 | RISK       | BONKUSDT | Assessing risk for BUY signal
+🧠 12:41:16.649 | RISK       | BONKUSDT | Position check: 0/15
+🧠 12:41:16.649 | RISK       | BONKUSDT | Max position size: $5,000,000
+🧠 12:41:16.649 | RISK       | BONKUSDT | Risk score: 0.117
+🧠 12:41:16.649 | EXECUTION  | BONKUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.649 | EXECUTION  | BONKUSDT | Order details: 318877551020.408203 BON
+🧠 12:41:16.649 | EXECUTION  | BONKUSDT | Order executed: DEMO_BONKUSDT_1749107476
+🧠 12:41:16.649 | SIGNAL     | SANDUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.649 | RISK       | SANDUSDT | Assessing risk for BUY signal
+🧠 12:41:16.649 | RISK       | SANDUSDT | Position check: 0/15
+🧠 12:41:16.649 | RISK       | SANDUSDT | Max position size: $5,000,000
+🧠 12:41:16.649 | RISK       | SANDUSDT | Risk score: 0.117
+🧠 12:41:16.649 | EXECUTION  | SANDUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.649 | EXECUTION  | SANDUSDT | Order details: 18261504.747991 SAN
+🧠 12:41:16.649 | EXECUTION  | SANDUSDT | Order executed: DEMO_SANDUSDT_1749107476
+🧠 12:41:16.649 | SIGNAL     | MANAUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.649 | RISK       | MANAUSDT | Assessing risk for BUY signal
+🧠 12:41:16.649 | RISK       | MANAUSDT | Position check: 0/15
+🧠 12:41:16.649 | RISK       | MANAUSDT | Max position size: $5,000,000
+🧠 12:41:16.649 | RISK       | MANAUSDT | Risk score: 0.117
+🧠 12:41:16.649 | EXECUTION  | MANAUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.649 | EXECUTION  | MANAUSDT | Order details: 18241517.694272 MAN
+🧠 12:41:16.649 | EXECUTION  | MANAUSDT | Order executed: DEMO_MANAUSDT_1749107476
+🧠 12:41:16.649 | SIGNAL     | AXSUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.649 | RISK       | AXSUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.649 | RISK       | AXSUSDT  | Position check: 0/15
+🧠 12:41:16.649 | RISK       | AXSUSDT  | Max position size: $5,000,000
+🧠 12:41:16.649 | RISK       | AXSUSDT  | Risk score: 0.117
+🧠 12:41:16.649 | EXECUTION  | AXSUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.649 | EXECUTION  | AXSUSDT  | Order details: 2017756.255044 AXS
+🧠 12:41:16.649 | EXECUTION  | AXSUSDT  | Order executed: DEMO_AXSUSDT_1749107476
+🧠 12:41:16.649 | SIGNAL     | ENJUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:16.649 | RISK       | ENJUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.649 | RISK       | ENJUSDT  | Position check: 0/15
+🧠 12:41:16.649 | RISK       | ENJUSDT  | Max position size: $5,000,000
+🧠 12:41:16.649 | RISK       | ENJUSDT  | Risk score: 0.117
+🧠 12:41:16.649 | EXECUTION  | ENJUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.649 | EXECUTION  | ENJUSDT  | Order details: 67476383.265857 ENJ
+🧠 12:41:16.649 | EXECUTION  | ENJUSDT  | Order executed: DEMO_ENJUSDT_1749107476
+🧠 12:41:16.649 | SIGNAL     | GALAUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.649 | RISK       | GALAUSDT | Assessing risk for BUY signal
+🧠 12:41:16.650 | RISK       | GALAUSDT | Position check: 0/15
+🧠 12:41:16.650 | RISK       | GALAUSDT | Max position size: $5,000,000
+🧠 12:41:16.650 | RISK       | GALAUSDT | Risk score: 0.117
+🧠 12:41:16.650 | EXECUTION  | GALAUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.650 | EXECUTION  | GALAUSDT | Order details: 306184935.701163 GAL
+🧠 12:41:16.650 | EXECUTION  | GALAUSDT | Order executed: DEMO_GALAUSDT_1749107476
+🧠 12:41:16.650 | SIGNAL     | MKRUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.650 | RISK       | MKRUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.650 | RISK       | MKRUSDT  | Position check: 0/15
+🧠 12:41:16.650 | RISK       | MKRUSDT  | Max position size: $5,000,000
+🧠 12:41:16.650 | RISK       | MKRUSDT  | Risk score: 0.117
+🧠 12:41:16.650 | EXECUTION  | MKRUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.650 | EXECUTION  | MKRUSDT  | Order details: 2802.690583 MKR
+🧠 12:41:16.650 | EXECUTION  | MKRUSDT  | Order executed: DEMO_MKRUSDT_1749107476
+🧠 12:41:16.650 | SIGNAL     | SNXUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:16.650 | RISK       | SNXUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.650 | RISK       | SNXUSDT  | Position check: 0/15
+🧠 12:41:16.650 | RISK       | SNXUSDT  | Max position size: $5,000,000
+🧠 12:41:16.650 | RISK       | SNXUSDT  | Risk score: 0.117
+🧠 12:41:16.650 | EXECUTION  | SNXUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.650 | EXECUTION  | SNXUSDT  | Order details: 7440476.190476 SNX
+🧠 12:41:16.650 | EXECUTION  | SNXUSDT  | Order executed: DEMO_SNXUSDT_1749107476
+🧠 12:41:16.650 | SIGNAL     | YFIUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.650 | RISK       | YFIUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.650 | RISK       | YFIUSDT  | Position check: 0/15
+🧠 12:41:16.650 | RISK       | YFIUSDT  | Max position size: $5,000,000
+🧠 12:41:16.650 | RISK       | YFIUSDT  | Risk score: 0.117
+🧠 12:41:16.650 | EXECUTION  | YFIUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.650 | EXECUTION  | YFIUSDT  | Order details: 968.054211 YFI
+🧠 12:41:16.650 | EXECUTION  | YFIUSDT  | Order executed: DEMO_YFIUSDT_1749107476
+🧠 12:41:16.650 | SIGNAL     | 1INCHUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.650 | RISK       | 1INCHUSDT | Assessing risk for BUY signal
+🧠 12:41:16.650 | RISK       | 1INCHUSDT | Position check: 0/15
+🧠 12:41:16.650 | RISK       | 1INCHUSDT | Max position size: $5,000,000
+🧠 12:41:16.650 | RISK       | 1INCHUSDT | Risk score: 0.117
+🧠 12:41:16.650 | EXECUTION  | 1INCHUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.650 | EXECUTION  | 1INCHUSDT | Order details: 23798191.337458 1IN
+🧠 12:41:16.650 | EXECUTION  | 1INCHUSDT | Order executed: DEMO_1INCHUSDT_1749107476
+🧠 12:41:16.650 | SIGNAL     | SUSHIUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.650 | RISK       | SUSHIUSDT | Assessing risk for BUY signal
+🧠 12:41:16.650 | RISK       | SUSHIUSDT | Position check: 0/15
+🧠 12:41:16.650 | RISK       | SUSHIUSDT | Max position size: $5,000,000
+🧠 12:41:16.650 | RISK       | SUSHIUSDT | Risk score: 0.117
+🧠 12:41:16.650 | EXECUTION  | SUSHIUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.650 | EXECUTION  | SUSHIUSDT | Order details: 7530120.481928 SUS
+🧠 12:41:16.650 | EXECUTION  | SUSHIUSDT | Order executed: DEMO_SUSHIUSDT_1749107476
+🧠 12:41:16.650 | SIGNAL     | XLMUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:16.650 | RISK       | XLMUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.650 | RISK       | XLMUSDT  | Position check: 0/15
+🧠 12:41:16.650 | RISK       | XLMUSDT  | Max position size: $5,000,000
+🧠 12:41:16.650 | RISK       | XLMUSDT  | Risk score: 0.117
+🧠 12:41:16.650 | EXECUTION  | XLMUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.650 | EXECUTION  | XLMUSDT  | Order details: 18853695.324284 XLM
+🧠 12:41:16.650 | EXECUTION  | XLMUSDT  | Order executed: DEMO_XLMUSDT_1749107476
+🧠 12:41:16.650 | SIGNAL     | XRPUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.650 | RISK       | XRPUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.650 | RISK       | XRPUSDT  | Position check: 0/15
+🧠 12:41:16.650 | RISK       | XRPUSDT  | Max position size: $5,000,000
+🧠 12:41:16.650 | RISK       | XRPUSDT  | Risk score: 0.117
+🧠 12:41:16.651 | EXECUTION  | XRPUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.651 | EXECUTION  | XRPUSDT  | Order details: 2279981.760146 XRP
+🧠 12:41:16.651 | EXECUTION  | XRPUSDT  | Order executed: DEMO_XRPUSDT_1749107476
+🧠 12:41:16.651 | SIGNAL     | TRXUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:16.651 | RISK       | TRXUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.651 | RISK       | TRXUSDT  | Position check: 0/15
+🧠 12:41:16.651 | RISK       | TRXUSDT  | Max position size: $5,000,000
+🧠 12:41:16.651 | RISK       | TRXUSDT  | Risk score: 0.117
+🧠 12:41:16.651 | EXECUTION  | TRXUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.651 | EXECUTION  | TRXUSDT  | Order details: 18335166.850018 TRX
+🧠 12:41:16.651 | EXECUTION  | TRXUSDT  | Order executed: DEMO_TRXUSDT_1749107476
+🧠 12:41:16.651 | SIGNAL     | VETUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:16.651 | RISK       | VETUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.651 | RISK       | VETUSDT  | Position check: 0/15
+🧠 12:41:16.651 | RISK       | VETUSDT  | Max position size: $5,000,000
+🧠 12:41:16.651 | RISK       | VETUSDT  | Risk score: 0.117
+🧠 12:41:16.651 | EXECUTION  | VETUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.651 | EXECUTION  | VETUSDT  | Order details: 210526315.789474 VET
+🧠 12:41:16.651 | EXECUTION  | VETUSDT  | Order executed: DEMO_VETUSDT_1749107476
+🧠 12:41:16.651 | SIGNAL     | HBARUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.651 | RISK       | HBARUSDT | Assessing risk for BUY signal
+🧠 12:41:16.651 | RISK       | HBARUSDT | Position check: 0/15
+🧠 12:41:16.651 | RISK       | HBARUSDT | Max position size: $5,000,000
+🧠 12:41:16.651 | RISK       | HBARUSDT | Risk score: 0.117
+🧠 12:41:16.651 | EXECUTION  | HBARUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.651 | EXECUTION  | HBARUSDT | Order details: 29938327.046285 HBA
+🧠 12:41:16.651 | EXECUTION  | HBARUSDT | Order executed: DEMO_HBARUSDT_1749107476
+🧠 12:41:16.651 | SIGNAL     | FETUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:16.651 | RISK       | FETUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.651 | RISK       | FETUSDT  | Position check: 0/15
+🧠 12:41:16.651 | RISK       | FETUSDT  | Max position size: $5,000,000
+🧠 12:41:16.651 | RISK       | FETUSDT  | Risk score: 0.117
+🧠 12:41:16.651 | EXECUTION  | FETUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.651 | EXECUTION  | FETUSDT  | Order details: 6337135.614702 FET
+🧠 12:41:16.651 | EXECUTION  | FETUSDT  | Order executed: DEMO_FETUSDT_1749107476
+🧠 12:41:16.651 | SIGNAL     | OCEANUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.651 | RISK       | OCEANUSDT | Assessing risk for BUY signal
+🧠 12:41:16.651 | RISK       | OCEANUSDT | Position check: 0/15
+🧠 12:41:16.651 | RISK       | OCEANUSDT | Max position size: $5,000,000
+🧠 12:41:16.651 | RISK       | OCEANUSDT | Risk score: 0.117
+🧠 12:41:16.651 | EXECUTION  | OCEANUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.651 | EXECUTION  | OCEANUSDT | Order details: 8165931.732811 OCE
+🧠 12:41:16.651 | EXECUTION  | OCEANUSDT | Order executed: DEMO_OCEANUSDT_1749107476
+🧠 12:41:16.651 | SIGNAL     | AGIXUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.651 | RISK       | AGIXUSDT | Assessing risk for BUY signal
+🧠 12:41:16.651 | RISK       | AGIXUSDT | Position check: 0/15
+🧠 12:41:16.651 | RISK       | AGIXUSDT | Max position size: $5,000,000
+🧠 12:41:16.651 | RISK       | AGIXUSDT | Risk score: 0.117
+🧠 12:41:16.651 | EXECUTION  | AGIXUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.651 | EXECUTION  | AGIXUSDT | Order details: 8141996.417522 AGI
+🧠 12:41:16.651 | EXECUTION  | AGIXUSDT | Order executed: DEMO_AGIXUSDT_1749107476
+🧠 12:41:16.651 | SIGNAL     | RNDRUSDT | SELL signal (conf: 0.95)
+🧠 12:41:16.651 | RISK       | RNDRUSDT | Assessing risk for SELL signal
+🧠 12:41:16.652 | RISK       | RNDRUSDT | Position check: 0/15
+🧠 12:41:16.652 | RISK       | RNDRUSDT | Max position size: $5,000,000
+🧠 12:41:16.652 | RISK       | RNDRUSDT | Risk score: 0.117
+🧠 12:41:16.652 | EXECUTION  | RNDRUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:16.652 | EXECUTION  | RNDRUSDT | Order details: 711237.553343 RND
+🧠 12:41:16.652 | EXECUTION  | RNDRUSDT | Order executed: DEMO_RNDRUSDT_1749107476
+🧠 12:41:16.652 | SIGNAL     | THETAUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.652 | RISK       | THETAUSDT | Assessing risk for BUY signal
+🧠 12:41:16.652 | RISK       | THETAUSDT | Position check: 0/15
+🧠 12:41:16.652 | RISK       | THETAUSDT | Max position size: $5,000,000
+🧠 12:41:16.652 | RISK       | THETAUSDT | Risk score: 0.117
+🧠 12:41:16.652 | EXECUTION  | THETAUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.652 | EXECUTION  | THETAUSDT | Order details: 6596306.068602 THE
+🧠 12:41:16.652 | EXECUTION  | THETAUSDT | Order executed: DEMO_THETAUSDT_1749107476
+🧠 12:41:16.652 | SIGNAL     | FILUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.652 | RISK       | FILUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.652 | RISK       | FILUSDT  | Position check: 0/15
+🧠 12:41:16.652 | RISK       | FILUSDT  | Max position size: $5,000,000
+🧠 12:41:16.652 | RISK       | FILUSDT  | Risk score: 0.117
+🧠 12:41:16.652 | EXECUTION  | FILUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.652 | EXECUTION  | FILUSDT  | Order details: 1950078.003120 FIL
+🧠 12:41:16.652 | EXECUTION  | FILUSDT  | Order executed: DEMO_FILUSDT_1749107476
+🧠 12:41:16.652 | SIGNAL     | ARUSDT   | SELL signal (conf: 0.95)
+🧠 12:41:16.652 | RISK       | ARUSDT   | Assessing risk for SELL signal
+🧠 12:41:16.652 | RISK       | ARUSDT   | Position check: 0/15
+🧠 12:41:16.652 | RISK       | ARUSDT   | Max position size: $5,000,000
+🧠 12:41:16.652 | RISK       | ARUSDT   | Risk score: 0.117
+🧠 12:41:16.652 | EXECUTION  | ARUSDT   | Preparing SELL order for $5,000,000
+🧠 12:41:16.652 | EXECUTION  | ARUSDT   | Order details: 775193.798450 ARU
+🧠 12:41:16.652 | EXECUTION  | ARUSDT   | Order executed: DEMO_ARUSDT_1749107476
+🧠 12:41:16.652 | SIGNAL     | STXUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:16.652 | RISK       | STXUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.652 | RISK       | STXUSDT  | Position check: 0/15
+🧠 12:41:16.652 | RISK       | STXUSDT  | Max position size: $5,000,000
+🧠 12:41:16.652 | RISK       | STXUSDT  | Risk score: 0.117
+🧠 12:41:16.652 | EXECUTION  | STXUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.652 | EXECUTION  | STXUSDT  | Order details: 6666666.666667 STX
+🧠 12:41:16.652 | EXECUTION  | STXUSDT  | Order executed: DEMO_STXUSDT_1749107476
+🧠 12:41:16.652 | SIGNAL     | ICPUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.652 | RISK       | ICPUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.652 | RISK       | ICPUSDT  | Position check: 0/15
+🧠 12:41:16.652 | RISK       | ICPUSDT  | Max position size: $5,000,000
+🧠 12:41:16.652 | RISK       | ICPUSDT  | Risk score: 0.117
+🧠 12:41:16.652 | EXECUTION  | ICPUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.652 | EXECUTION  | ICPUSDT  | Order details: 960984.047665 ICP
+🧠 12:41:16.652 | EXECUTION  | ICPUSDT  | Order executed: DEMO_ICPUSDT_1749107476
+🧠 12:41:16.653 | SIGNAL     | ALGOUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.653 | RISK       | ALGOUSDT | Assessing risk for BUY signal
+🧠 12:41:16.653 | RISK       | ALGOUSDT | Position check: 0/15
+🧠 12:41:16.653 | RISK       | ALGOUSDT | Max position size: $5,000,000
+🧠 12:41:16.653 | RISK       | ALGOUSDT | Risk score: 0.117
+🧠 12:41:16.653 | EXECUTION  | ALGOUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.653 | EXECUTION  | ALGOUSDT | Order details: 26301946.344029 ALG
+🧠 12:41:16.653 | EXECUTION  | ALGOUSDT | Order executed: DEMO_ALGOUSDT_1749107476
+🧠 12:41:16.653 | SIGNAL     | XMRUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.653 | RISK       | XMRUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.653 | RISK       | XMRUSDT  | Position check: 0/15
+🧠 12:41:16.653 | RISK       | XMRUSDT  | Max position size: $5,000,000
+🧠 12:41:16.653 | RISK       | XMRUSDT  | Risk score: 0.117
+🧠 12:41:16.653 | EXECUTION  | XMRUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.653 | EXECUTION  | XMRUSDT  | Order details: 42122.999158 XMR
+🧠 12:41:16.653 | EXECUTION  | XMRUSDT  | Order executed: DEMO_XMRUSDT_1749107476
+🧠 12:41:16.653 | SIGNAL     | ZECUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.653 | RISK       | ZECUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.653 | RISK       | ZECUSDT  | Position check: 0/15
+🧠 12:41:16.653 | RISK       | ZECUSDT  | Max position size: $5,000,000
+🧠 12:41:16.653 | RISK       | ZECUSDT  | Risk score: 0.117
+🧠 12:41:16.653 | EXECUTION  | ZECUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.653 | EXECUTION  | ZECUSDT  | Order details: 100300.902708 ZEC
+🧠 12:41:16.653 | EXECUTION  | ZECUSDT  | Order executed: DEMO_ZECUSDT_1749107476
+🧠 12:41:16.653 | SIGNAL     | DASHUSDT | SELL signal (conf: 0.95)
+🧠 12:41:16.653 | RISK       | DASHUSDT | Assessing risk for SELL signal
+🧠 12:41:16.653 | RISK       | DASHUSDT | Position check: 0/15
+🧠 12:41:16.653 | RISK       | DASHUSDT | Max position size: $5,000,000
+🧠 12:41:16.653 | RISK       | DASHUSDT | Risk score: 0.117
+🧠 12:41:16.653 | EXECUTION  | DASHUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:16.653 | EXECUTION  | DASHUSDT | Order details: 233754.090697 DAS
+🧠 12:41:16.653 | EXECUTION  | DASHUSDT | Order executed: DEMO_DASHUSDT_1749107476
+🧠 12:41:16.653 | SIGNAL     | SCRTUSDT | BUY signal (conf: 0.95)
+🧠 12:41:16.653 | RISK       | SCRTUSDT | Assessing risk for BUY signal
+🧠 12:41:16.653 | RISK       | SCRTUSDT | Position check: 0/15
+🧠 12:41:16.653 | RISK       | SCRTUSDT | Max position size: $5,000,000
+🧠 12:41:16.653 | RISK       | SCRTUSDT | Risk score: 0.117
+🧠 12:41:16.653 | EXECUTION  | SCRTUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:16.653 | EXECUTION  | SCRTUSDT | Order details: 28280542.986425 SCR
+🧠 12:41:16.653 | EXECUTION  | SCRTUSDT | Order executed: DEMO_SCRTUSDT_1749107476
+🧠 12:41:16.653 | SIGNAL     | APTUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.653 | RISK       | APTUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.653 | RISK       | APTUSDT  | Position check: 0/15
+🧠 12:41:16.653 | RISK       | APTUSDT  | Max position size: $5,000,000
+🧠 12:41:16.653 | RISK       | APTUSDT  | Risk score: 0.117
+🧠 12:41:16.653 | EXECUTION  | APTUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.653 | EXECUTION  | APTUSDT  | Order details: 1045806.316670 APT
+🧠 12:41:16.653 | EXECUTION  | APTUSDT  | Order executed: DEMO_APTUSDT_1749107476
+🧠 12:41:16.653 | SIGNAL     | SUIUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.653 | RISK       | SUIUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.653 | RISK       | SUIUSDT  | Position check: 0/15
+🧠 12:41:16.653 | RISK       | SUIUSDT  | Max position size: $5,000,000
+🧠 12:41:16.653 | RISK       | SUIUSDT  | Risk score: 0.117
+🧠 12:41:16.653 | EXECUTION  | SUIUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.653 | EXECUTION  | SUIUSDT  | Order details: 1577535.888941 SUI
+🧠 12:41:16.653 | EXECUTION  | SUIUSDT  | Order executed: DEMO_SUIUSDT_1749107476
+🧠 12:41:16.653 | SIGNAL     | INJUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.653 | RISK       | INJUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.653 | RISK       | INJUSDT  | Position check: 0/15
+🧠 12:41:16.653 | RISK       | INJUSDT  | Max position size: $5,000,000
+🧠 12:41:16.653 | RISK       | INJUSDT  | Risk score: 0.117
+🧠 12:41:16.653 | EXECUTION  | INJUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.653 | EXECUTION  | INJUSDT  | Order details: 410846.343468 INJ
+🧠 12:41:16.653 | EXECUTION  | INJUSDT  | Order executed: DEMO_INJUSDT_1749107476
+🧠 12:41:16.653 | SIGNAL     | TIAUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:16.653 | RISK       | TIAUSDT  | Assessing risk for SELL signal
+🧠 12:41:16.653 | RISK       | TIAUSDT  | Position check: 0/15
+🧠 12:41:16.653 | RISK       | TIAUSDT  | Max position size: $5,000,000
+🧠 12:41:16.653 | RISK       | TIAUSDT  | Risk score: 0.117
+🧠 12:41:16.653 | EXECUTION  | TIAUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:16.653 | EXECUTION  | TIAUSDT  | Order details: 2325581.395349 TIA
+🧠 12:41:16.654 | EXECUTION  | TIAUSDT  | Order executed: DEMO_TIAUSDT_1749107476
+🧠 12:41:16.654 | SIGNAL     | SEIUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:16.654 | RISK       | SEIUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.654 | RISK       | SEIUSDT  | Position check: 0/15
+🧠 12:41:16.654 | RISK       | SEIUSDT  | Max position size: $5,000,000
+🧠 12:41:16.654 | RISK       | SEIUSDT  | Risk score: 0.117
+🧠 12:41:16.654 | EXECUTION  | SEIUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.654 | EXECUTION  | SEIUSDT  | Order details: 26014568.158169 SEI
+🧠 12:41:16.654 | EXECUTION  | SEIUSDT  | Order executed: DEMO_SEIUSDT_1749107476
+🧠 12:41:16.654 | SIGNAL     | LTCUSDT  | BUY signal (momentum: 0.87)
+🧠 12:41:16.654 | RISK       | LTCUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.654 | RISK       | LTCUSDT  | Position check: 0/15
+🧠 12:41:16.654 | RISK       | LTCUSDT  | Max position size: $5,000,000
+🧠 12:41:16.654 | RISK       | LTCUSDT  | Risk score: 0.142
+🧠 12:41:16.654 | EXECUTION  | LTCUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.654 | EXECUTION  | LTCUSDT  | Order details: 57201.693170 LTC
+🧠 12:41:16.654 | EXECUTION  | LTCUSDT  | Order executed: DEMO_LTCUSDT_1749107476
+🧠 12:41:16.654 | SIGNAL     | MKRUSDT  | BUY signal (momentum: 0.84)
+🧠 12:41:16.654 | RISK       | MKRUSDT  | Assessing risk for BUY signal
+🧠 12:41:16.654 | RISK       | MKRUSDT  | Position check: 0/15
+🧠 12:41:16.654 | RISK       | MKRUSDT  | Max position size: $5,000,000
+🧠 12:41:16.654 | RISK       | MKRUSDT  | Risk score: 0.153
+🧠 12:41:16.654 | EXECUTION  | MKRUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:16.654 | EXECUTION  | MKRUSDT  | Order details: 2802.690583 MKR
+🧠 12:41:16.654 | EXECUTION  | MKRUSDT  | Order executed: DEMO_MKRUSDT_1749107476
+127.0.0.1 - - [05/Jun/2025 12:41:18] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:18] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:18] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:18] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:18] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:20] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:20] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:20] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:20] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:20] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:22] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:22] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:22] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:22] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:22] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:24] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:24] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:24] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:24] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:24] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:26] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:26] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:26] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:26] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:26] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:28] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:28] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:28] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:28] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:28] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:30] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:30] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:30] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:30] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:30] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:32] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:32] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:32] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:32] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:32] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+🧠 12:41:32.381 | SIGNAL     | BTCUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.381 | RISK       | BTCUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.381 | RISK       | BTCUSDT  | Position check: 0/15
+🧠 12:41:32.381 | RISK       | BTCUSDT  | Max position size: $5,000,000
+🧠 12:41:32.381 | RISK       | BTCUSDT  | Risk score: 0.117
+🧠 12:41:32.381 | EXECUTION  | BTCUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.381 | EXECUTION  | BTCUSDT  | Order details: 47.823555 BTC
+🧠 12:41:32.381 | EXECUTION  | BTCUSDT  | Order executed: DEMO_BTCUSDT_1749107492
+🧠 12:41:32.381 | SIGNAL     | ETHUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:32.381 | RISK       | ETHUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.381 | RISK       | ETHUSDT  | Position check: 0/15
+🧠 12:41:32.381 | RISK       | ETHUSDT  | Max position size: $5,000,000
+🧠 12:41:32.381 | RISK       | ETHUSDT  | Risk score: 0.117
+🧠 12:41:32.381 | EXECUTION  | ETHUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.381 | EXECUTION  | ETHUSDT  | Order details: 1915.407924 ETH
+🧠 12:41:32.381 | EXECUTION  | ETHUSDT  | Order executed: DEMO_ETHUSDT_1749107492
+🧠 12:41:32.381 | SIGNAL     | BNBUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.381 | RISK       | BNBUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.381 | RISK       | BNBUSDT  | Position check: 0/15
+🧠 12:41:32.381 | RISK       | BNBUSDT  | Max position size: $5,000,000
+🧠 12:41:32.381 | RISK       | BNBUSDT  | Risk score: 0.117
+🧠 12:41:32.381 | EXECUTION  | BNBUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.381 | EXECUTION  | BNBUSDT  | Order details: 7489.402495 BNB
+🧠 12:41:32.381 | EXECUTION  | BNBUSDT  | Order executed: DEMO_BNBUSDT_1749107492
+🧠 12:41:32.381 | SIGNAL     | ADAUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:32.381 | RISK       | ADAUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.382 | RISK       | ADAUSDT  | Position check: 0/15
+🧠 12:41:32.382 | RISK       | ADAUSDT  | Max position size: $5,000,000
+🧠 12:41:32.382 | RISK       | ADAUSDT  | Risk score: 0.117
+🧠 12:41:32.382 | EXECUTION  | ADAUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.382 | EXECUTION  | ADAUSDT  | Order details: 7376807.317793 ADA
+🧠 12:41:32.382 | EXECUTION  | ADAUSDT  | Order executed: DEMO_ADAUSDT_1749107492
+🧠 12:41:32.382 | SIGNAL     | SOLUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.382 | RISK       | SOLUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.382 | RISK       | SOLUSDT  | Position check: 0/15
+🧠 12:41:32.382 | RISK       | SOLUSDT  | Max position size: $5,000,000
+🧠 12:41:32.382 | RISK       | SOLUSDT  | Risk score: 0.117
+🧠 12:41:32.382 | EXECUTION  | SOLUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.382 | EXECUTION  | SOLUSDT  | Order details: 32799.790081 SOL
+🧠 12:41:32.382 | EXECUTION  | SOLUSDT  | Order executed: DEMO_SOLUSDT_1749107492
+🧠 12:41:32.382 | SIGNAL     | DOTUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.382 | RISK       | DOTUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.382 | RISK       | DOTUSDT  | Position check: 0/15
+🧠 12:41:32.382 | RISK       | DOTUSDT  | Max position size: $5,000,000
+🧠 12:41:32.382 | RISK       | DOTUSDT  | Risk score: 0.117
+🧠 12:41:32.382 | EXECUTION  | DOTUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.382 | EXECUTION  | DOTUSDT  | Order details: 1242853.591847 DOT
+🧠 12:41:32.382 | EXECUTION  | DOTUSDT  | Order executed: DEMO_DOTUSDT_1749107492
+🧠 12:41:32.382 | SIGNAL     | AVAXUSDT | SELL signal (conf: 0.95)
+🧠 12:41:32.382 | RISK       | AVAXUSDT | Assessing risk for SELL signal
+🧠 12:41:32.382 | RISK       | AVAXUSDT | Position check: 0/15
+🧠 12:41:32.382 | RISK       | AVAXUSDT | Max position size: $5,000,000
+🧠 12:41:32.382 | RISK       | AVAXUSDT | Risk score: 0.117
+🧠 12:41:32.382 | EXECUTION  | AVAXUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:32.382 | EXECUTION  | AVAXUSDT | Order details: 248385.494287 AVA
+🧠 12:41:32.382 | EXECUTION  | AVAXUSDT | Order executed: DEMO_AVAXUSDT_1749107492
+🧠 12:41:32.382 | SIGNAL     | MATICUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.382 | RISK       | MATICUSDT | Assessing risk for BUY signal
+🧠 12:41:32.382 | RISK       | MATICUSDT | Position check: 0/15
+🧠 12:41:32.382 | RISK       | MATICUSDT | Max position size: $5,000,000
+🧠 12:41:32.382 | RISK       | MATICUSDT | Risk score: 0.117
+🧠 12:41:32.382 | EXECUTION  | MATICUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.382 | EXECUTION  | MATICUSDT | Order details: 13178703.215604 MAT
+🧠 12:41:32.382 | EXECUTION  | MATICUSDT | Order executed: DEMO_MATICUSDT_1749107492
+🧠 12:41:32.382 | SIGNAL     | ATOMUSDT | SELL signal (conf: 0.95)
+🧠 12:41:32.382 | RISK       | ATOMUSDT | Assessing risk for SELL signal
+🧠 12:41:32.382 | RISK       | ATOMUSDT | Position check: 0/15
+🧠 12:41:32.382 | RISK       | ATOMUSDT | Max position size: $5,000,000
+🧠 12:41:32.382 | RISK       | ATOMUSDT | Risk score: 0.117
+🧠 12:41:32.382 | EXECUTION  | ATOMUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:32.382 | EXECUTION  | ATOMUSDT | Order details: 1163061.177018 ATO
+🧠 12:41:32.382 | EXECUTION  | ATOMUSDT | Order executed: DEMO_ATOMUSDT_1749107492
+🧠 12:41:32.382 | SIGNAL     | NEARUSDT | SELL signal (conf: 0.95)
+🧠 12:41:32.382 | RISK       | NEARUSDT | Assessing risk for SELL signal
+🧠 12:41:32.382 | RISK       | NEARUSDT | Position check: 0/15
+🧠 12:41:32.382 | RISK       | NEARUSDT | Max position size: $5,000,000
+🧠 12:41:32.382 | RISK       | NEARUSDT | Risk score: 0.117
+🧠 12:41:32.382 | EXECUTION  | NEARUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:32.382 | EXECUTION  | NEARUSDT | Order details: 2050020.500205 NEA
+🧠 12:41:32.382 | EXECUTION  | NEARUSDT | Order executed: DEMO_NEARUSDT_1749107492
+🧠 12:41:32.382 | SIGNAL     | LINKUSDT | SELL signal (conf: 0.95)
+🧠 12:41:32.382 | RISK       | LINKUSDT | Assessing risk for SELL signal
+🧠 12:41:32.382 | RISK       | LINKUSDT | Position check: 0/15
+🧠 12:41:32.382 | RISK       | LINKUSDT | Max position size: $5,000,000
+🧠 12:41:32.382 | RISK       | LINKUSDT | Risk score: 0.117
+🧠 12:41:32.382 | EXECUTION  | LINKUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:32.382 | EXECUTION  | LINKUSDT | Order details: 363372.093023 LIN
+🧠 12:41:32.382 | EXECUTION  | LINKUSDT | Order executed: DEMO_LINKUSDT_1749107492
+🧠 12:41:32.382 | SIGNAL     | UNIUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.382 | RISK       | UNIUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.383 | RISK       | UNIUSDT  | Position check: 0/15
+🧠 12:41:32.383 | RISK       | UNIUSDT  | Max position size: $5,000,000
+🧠 12:41:32.383 | RISK       | UNIUSDT  | Risk score: 0.117
+🧠 12:41:32.383 | EXECUTION  | UNIUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.383 | EXECUTION  | UNIUSDT  | Order details: 795544.948290 UNI
+🧠 12:41:32.383 | EXECUTION  | UNIUSDT  | Order executed: DEMO_UNIUSDT_1749107492
+🧠 12:41:32.383 | SIGNAL     | AAVEUSDT | SELL signal (conf: 0.95)
+🧠 12:41:32.383 | RISK       | AAVEUSDT | Assessing risk for SELL signal
+🧠 12:41:32.383 | RISK       | AAVEUSDT | Position check: 0/15
+🧠 12:41:32.383 | RISK       | AAVEUSDT | Max position size: $5,000,000
+🧠 12:41:32.383 | RISK       | AAVEUSDT | Risk score: 0.117
+🧠 12:41:32.383 | EXECUTION  | AAVEUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:32.383 | EXECUTION  | AAVEUSDT | Order details: 18973.891925 AAV
+🧠 12:41:32.383 | EXECUTION  | AAVEUSDT | Order executed: DEMO_AAVEUSDT_1749107492
+🧠 12:41:32.383 | SIGNAL     | CRVUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:32.383 | RISK       | CRVUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.383 | RISK       | CRVUSDT  | Position check: 0/15
+🧠 12:41:32.383 | RISK       | CRVUSDT  | Max position size: $5,000,000
+🧠 12:41:32.383 | RISK       | CRVUSDT  | Risk score: 0.117
+🧠 12:41:32.383 | EXECUTION  | CRVUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.383 | EXECUTION  | CRVUSDT  | Order details: 7912644.405760 CRV
+🧠 12:41:32.383 | EXECUTION  | CRVUSDT  | Order executed: DEMO_CRVUSDT_1749107492
+🧠 12:41:32.383 | SIGNAL     | COMPUSDT | SELL signal (conf: 0.95)
+🧠 12:41:32.383 | RISK       | COMPUSDT | Assessing risk for SELL signal
+🧠 12:41:32.383 | RISK       | COMPUSDT | Position check: 0/15
+🧠 12:41:32.383 | RISK       | COMPUSDT | Max position size: $5,000,000
+🧠 12:41:32.383 | RISK       | COMPUSDT | Risk score: 0.117
+🧠 12:41:32.383 | EXECUTION  | COMPUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:32.383 | EXECUTION  | COMPUSDT | Order details: 114995.400184 COM
+🧠 12:41:32.383 | EXECUTION  | COMPUSDT | Order executed: DEMO_COMPUSDT_1749107492
+🧠 12:41:32.383 | SIGNAL     | ARBUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:32.383 | RISK       | ARBUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.383 | RISK       | ARBUSDT  | Position check: 0/15
+🧠 12:41:32.383 | RISK       | ARBUSDT  | Max position size: $5,000,000
+🧠 12:41:32.383 | RISK       | ARBUSDT  | Risk score: 0.117
+🧠 12:41:32.383 | EXECUTION  | ARBUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.383 | EXECUTION  | ARBUSDT  | Order details: 14128284.826222 ARB
+🧠 12:41:32.383 | EXECUTION  | ARBUSDT  | Order executed: DEMO_ARBUSDT_1749107492
+🧠 12:41:32.383 | SIGNAL     | OPUSDT   | BUY signal (conf: 0.95)
+🧠 12:41:32.383 | RISK       | OPUSDT   | Assessing risk for BUY signal
+🧠 12:41:32.383 | RISK       | OPUSDT   | Position check: 0/15
+🧠 12:41:32.383 | RISK       | OPUSDT   | Max position size: $5,000,000
+🧠 12:41:32.384 | RISK       | OPUSDT   | Risk score: 0.117
+🧠 12:41:32.384 | EXECUTION  | OPUSDT   | Preparing BUY order for $5,000,000
+🧠 12:41:32.384 | EXECUTION  | OPUSDT   | Order details: 7923930.269414 OPU
+🧠 12:41:32.384 | EXECUTION  | OPUSDT   | Order executed: DEMO_OPUSDT_1749107492
+🧠 12:41:32.384 | SIGNAL     | LTCUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.384 | RISK       | LTCUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.384 | RISK       | LTCUSDT  | Position check: 0/15
+🧠 12:41:32.384 | RISK       | LTCUSDT  | Max position size: $5,000,000
+🧠 12:41:32.384 | RISK       | LTCUSDT  | Risk score: 0.117
+🧠 12:41:32.384 | EXECUTION  | LTCUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.384 | EXECUTION  | LTCUSDT  | Order details: 57182.067704 LTC
+🧠 12:41:32.384 | EXECUTION  | LTCUSDT  | Order executed: DEMO_LTCUSDT_1749107492
+🧠 12:41:32.384 | SIGNAL     | BCHUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.384 | RISK       | BCHUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.384 | RISK       | BCHUSDT  | Position check: 0/15
+🧠 12:41:32.384 | RISK       | BCHUSDT  | Max position size: $5,000,000
+🧠 12:41:32.384 | RISK       | BCHUSDT  | Risk score: 0.117
+🧠 12:41:32.384 | EXECUTION  | BCHUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.384 | EXECUTION  | BCHUSDT  | Order details: 12447.099826 BCH
+🧠 12:41:32.384 | EXECUTION  | BCHUSDT  | Order executed: DEMO_BCHUSDT_1749107492
+🧠 12:41:32.384 | SIGNAL     | ETCUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.384 | RISK       | ETCUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.384 | RISK       | ETCUSDT  | Position check: 0/15
+🧠 12:41:32.384 | RISK       | ETCUSDT  | Max position size: $5,000,000
+🧠 12:41:32.384 | RISK       | ETCUSDT  | Risk score: 0.117
+🧠 12:41:32.384 | EXECUTION  | ETCUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.384 | EXECUTION  | ETCUSDT  | Order details: 290023.201856 ETC
+🧠 12:41:32.384 | EXECUTION  | ETCUSDT  | Order executed: DEMO_ETCUSDT_1749107492
+🧠 12:41:32.384 | SIGNAL     | DOGEUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.384 | RISK       | DOGEUSDT | Assessing risk for BUY signal
+🧠 12:41:32.384 | RISK       | DOGEUSDT | Position check: 0/15
+🧠 12:41:32.384 | RISK       | DOGEUSDT | Max position size: $5,000,000
+🧠 12:41:32.384 | RISK       | DOGEUSDT | Risk score: 0.117
+🧠 12:41:32.384 | EXECUTION  | DOGEUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.384 | EXECUTION  | DOGEUSDT | Order details: 26529421.128031 DOG
+🧠 12:41:32.384 | EXECUTION  | DOGEUSDT | Order executed: DEMO_DOGEUSDT_1749107492
+🧠 12:41:32.384 | SIGNAL     | SHIBUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.384 | RISK       | SHIBUSDT | Assessing risk for BUY signal
+🧠 12:41:32.384 | RISK       | SHIBUSDT | Position check: 0/15
+🧠 12:41:32.384 | RISK       | SHIBUSDT | Max position size: $5,000,000
+🧠 12:41:32.384 | RISK       | SHIBUSDT | Risk score: 0.117
+🧠 12:41:32.384 | EXECUTION  | SHIBUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.384 | EXECUTION  | SHIBUSDT | Order details: 391849529780.564270 SHI
+🧠 12:41:32.384 | EXECUTION  | SHIBUSDT | Order executed: DEMO_SHIBUSDT_1749107492
+🧠 12:41:32.384 | SIGNAL     | PEPEUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.384 | RISK       | PEPEUSDT | Assessing risk for BUY signal
+🧠 12:41:32.384 | RISK       | PEPEUSDT | Position check: 0/15
+🧠 12:41:32.384 | RISK       | PEPEUSDT | Max position size: $5,000,000
+🧠 12:41:32.384 | RISK       | PEPEUSDT | Risk score: 0.117
+🧠 12:41:32.384 | EXECUTION  | PEPEUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.384 | EXECUTION  | PEPEUSDT | Order details: 425894378194.207886 PEP
+🧠 12:41:32.384 | EXECUTION  | PEPEUSDT | Order executed: DEMO_PEPEUSDT_1749107492
+🧠 12:41:32.384 | SIGNAL     | FLOKIUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.384 | RISK       | FLOKIUSDT | Assessing risk for BUY signal
+🧠 12:41:32.384 | RISK       | FLOKIUSDT | Position check: 0/15
+🧠 12:41:32.384 | RISK       | FLOKIUSDT | Max position size: $5,000,000
+🧠 12:41:32.384 | RISK       | FLOKIUSDT | Risk score: 0.117
+🧠 12:41:32.384 | EXECUTION  | FLOKIUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.384 | EXECUTION  | FLOKIUSDT | Order details: 61251990689.697411 FLO
+🧠 12:41:32.384 | EXECUTION  | FLOKIUSDT | Order executed: DEMO_FLOKIUSDT_1749107492
+🧠 12:41:32.384 | SIGNAL     | BONKUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.384 | RISK       | BONKUSDT | Assessing risk for BUY signal
+🧠 12:41:32.385 | RISK       | BONKUSDT | Position check: 0/15
+🧠 12:41:32.385 | RISK       | BONKUSDT | Max position size: $5,000,000
+🧠 12:41:32.385 | RISK       | BONKUSDT | Risk score: 0.117
+🧠 12:41:32.385 | EXECUTION  | BONKUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.385 | EXECUTION  | BONKUSDT | Order details: 318674314850.223083 BON
+🧠 12:41:32.385 | EXECUTION  | BONKUSDT | Order executed: DEMO_BONKUSDT_1749107492
+🧠 12:41:32.385 | SIGNAL     | SANDUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.385 | RISK       | SANDUSDT | Assessing risk for BUY signal
+🧠 12:41:32.385 | RISK       | SANDUSDT | Position check: 0/15
+🧠 12:41:32.385 | RISK       | SANDUSDT | Max position size: $5,000,000
+🧠 12:41:32.385 | RISK       | SANDUSDT | Risk score: 0.117
+🧠 12:41:32.385 | EXECUTION  | SANDUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.385 | EXECUTION  | SANDUSDT | Order details: 18254837.531946 SAN
+🧠 12:41:32.385 | EXECUTION  | SANDUSDT | Order executed: DEMO_SANDUSDT_1749107492
+🧠 12:41:32.385 | SIGNAL     | MANAUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.385 | RISK       | MANAUSDT | Assessing risk for BUY signal
+🧠 12:41:32.385 | RISK       | MANAUSDT | Position check: 0/15
+🧠 12:41:32.385 | RISK       | MANAUSDT | Max position size: $5,000,000
+🧠 12:41:32.385 | RISK       | MANAUSDT | Risk score: 0.117
+🧠 12:41:32.385 | EXECUTION  | MANAUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.385 | EXECUTION  | MANAUSDT | Order details: 18234865.061999 MAN
+🧠 12:41:32.385 | EXECUTION  | MANAUSDT | Order executed: DEMO_MANAUSDT_1749107492
+🧠 12:41:32.385 | SIGNAL     | AXSUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.385 | RISK       | AXSUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.385 | RISK       | AXSUSDT  | Position check: 0/15
+🧠 12:41:32.385 | RISK       | AXSUSDT  | Max position size: $5,000,000
+🧠 12:41:32.385 | RISK       | AXSUSDT  | Risk score: 0.117
+🧠 12:41:32.385 | EXECUTION  | AXSUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.385 | EXECUTION  | AXSUSDT  | Order details: 2019386.106624 AXS
+🧠 12:41:32.385 | EXECUTION  | AXSUSDT  | Order executed: DEMO_AXSUSDT_1749107492
+🧠 12:41:32.385 | SIGNAL     | ENJUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:32.385 | RISK       | ENJUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.385 | RISK       | ENJUSDT  | Position check: 0/15
+🧠 12:41:32.385 | RISK       | ENJUSDT  | Max position size: $5,000,000
+🧠 12:41:32.385 | RISK       | ENJUSDT  | Risk score: 0.117
+🧠 12:41:32.385 | EXECUTION  | ENJUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.385 | EXECUTION  | ENJUSDT  | Order details: 67385444.743935 ENJ
+🧠 12:41:32.385 | EXECUTION  | ENJUSDT  | Order executed: DEMO_ENJUSDT_1749107492
+🧠 12:41:32.385 | SIGNAL     | GALAUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.385 | RISK       | GALAUSDT | Assessing risk for BUY signal
+🧠 12:41:32.385 | RISK       | GALAUSDT | Position check: 0/15
+🧠 12:41:32.385 | RISK       | GALAUSDT | Max position size: $5,000,000
+🧠 12:41:32.385 | RISK       | GALAUSDT | Risk score: 0.117
+🧠 12:41:32.385 | EXECUTION  | GALAUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.385 | EXECUTION  | GALAUSDT | Order details: 305810397.553517 GAL
+🧠 12:41:32.385 | EXECUTION  | GALAUSDT | Order executed: DEMO_GALAUSDT_1749107492
+🧠 12:41:32.385 | SIGNAL     | MKRUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.385 | RISK       | MKRUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.385 | RISK       | MKRUSDT  | Position check: 0/15
+🧠 12:41:32.385 | RISK       | MKRUSDT  | Max position size: $5,000,000
+🧠 12:41:32.385 | RISK       | MKRUSDT  | Risk score: 0.117
+🧠 12:41:32.386 | EXECUTION  | MKRUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.386 | EXECUTION  | MKRUSDT  | Order details: 2802.690583 MKR
+🧠 12:41:32.386 | EXECUTION  | MKRUSDT  | Order executed: DEMO_MKRUSDT_1749107492
+🧠 12:41:32.386 | SIGNAL     | SNXUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:32.386 | RISK       | SNXUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.386 | RISK       | SNXUSDT  | Position check: 0/15
+🧠 12:41:32.386 | RISK       | SNXUSDT  | Max position size: $5,000,000
+🧠 12:41:32.386 | RISK       | SNXUSDT  | Risk score: 0.117
+🧠 12:41:32.386 | EXECUTION  | SNXUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.386 | EXECUTION  | SNXUSDT  | Order details: 7429420.505201 SNX
+🧠 12:41:32.386 | EXECUTION  | SNXUSDT  | Order executed: DEMO_SNXUSDT_1749107492
+🧠 12:41:32.386 | SIGNAL     | YFIUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.386 | RISK       | YFIUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.386 | RISK       | YFIUSDT  | Position check: 0/15
+🧠 12:41:32.386 | RISK       | YFIUSDT  | Max position size: $5,000,000
+🧠 12:41:32.386 | RISK       | YFIUSDT  | Risk score: 0.117
+🧠 12:41:32.386 | EXECUTION  | YFIUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.386 | EXECUTION  | YFIUSDT  | Order details: 967.305088 YFI
+🧠 12:41:32.386 | EXECUTION  | YFIUSDT  | Order executed: DEMO_YFIUSDT_1749107492
+🧠 12:41:32.386 | SIGNAL     | 1INCHUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.386 | RISK       | 1INCHUSDT | Assessing risk for BUY signal
+🧠 12:41:32.386 | RISK       | 1INCHUSDT | Position check: 0/15
+🧠 12:41:32.386 | RISK       | 1INCHUSDT | Max position size: $5,000,000
+🧠 12:41:32.386 | RISK       | 1INCHUSDT | Risk score: 0.117
+🧠 12:41:32.386 | EXECUTION  | 1INCHUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.386 | EXECUTION  | 1INCHUSDT | Order details: 23798191.337458 1IN
+🧠 12:41:32.386 | EXECUTION  | 1INCHUSDT | Order executed: DEMO_1INCHUSDT_1749107492
+🧠 12:41:32.386 | SIGNAL     | SUSHIUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.386 | RISK       | SUSHIUSDT | Assessing risk for BUY signal
+🧠 12:41:32.386 | RISK       | SUSHIUSDT | Position check: 0/15
+🧠 12:41:32.386 | RISK       | SUSHIUSDT | Max position size: $5,000,000
+🧠 12:41:32.386 | RISK       | SUSHIUSDT | Risk score: 0.117
+🧠 12:41:32.386 | EXECUTION  | SUSHIUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.386 | EXECUTION  | SUSHIUSDT | Order details: 7530120.481928 SUS
+🧠 12:41:32.386 | EXECUTION  | SUSHIUSDT | Order executed: DEMO_SUSHIUSDT_1749107492
+🧠 12:41:32.386 | SIGNAL     | XLMUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:32.386 | RISK       | XLMUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.386 | RISK       | XLMUSDT  | Position check: 0/15
+🧠 12:41:32.386 | RISK       | XLMUSDT  | Max position size: $5,000,000
+🧠 12:41:32.386 | RISK       | XLMUSDT  | Risk score: 0.117
+🧠 12:41:32.386 | EXECUTION  | XLMUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.386 | EXECUTION  | XLMUSDT  | Order details: 18853695.324284 XLM
+🧠 12:41:32.386 | EXECUTION  | XLMUSDT  | Order executed: DEMO_XLMUSDT_1749107492
+🧠 12:41:32.386 | SIGNAL     | XRPUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.386 | RISK       | XRPUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.386 | RISK       | XRPUSDT  | Position check: 0/15
+🧠 12:41:32.386 | RISK       | XRPUSDT  | Max position size: $5,000,000
+🧠 12:41:32.386 | RISK       | XRPUSDT  | Risk score: 0.117
+🧠 12:41:32.386 | EXECUTION  | XRPUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.386 | EXECUTION  | XRPUSDT  | Order details: 2280085.731223 XRP
+🧠 12:41:32.386 | EXECUTION  | XRPUSDT  | Order executed: DEMO_XRPUSDT_1749107492
+🧠 12:41:32.386 | SIGNAL     | TRXUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:32.386 | RISK       | TRXUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.386 | RISK       | TRXUSDT  | Position check: 0/15
+🧠 12:41:32.387 | RISK       | TRXUSDT  | Max position size: $5,000,000
+🧠 12:41:32.387 | RISK       | TRXUSDT  | Risk score: 0.117
+🧠 12:41:32.387 | EXECUTION  | TRXUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.387 | EXECUTION  | TRXUSDT  | Order details: 18341892.883346 TRX
+🧠 12:41:32.387 | EXECUTION  | TRXUSDT  | Order executed: DEMO_TRXUSDT_1749107492
+🧠 12:41:32.387 | SIGNAL     | VETUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:32.387 | RISK       | VETUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.387 | RISK       | VETUSDT  | Position check: 0/15
+🧠 12:41:32.387 | RISK       | VETUSDT  | Max position size: $5,000,000
+🧠 12:41:32.387 | RISK       | VETUSDT  | Risk score: 0.117
+🧠 12:41:32.387 | EXECUTION  | VETUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.387 | EXECUTION  | VETUSDT  | Order details: 210526315.789474 VET
+🧠 12:41:32.387 | EXECUTION  | VETUSDT  | Order executed: DEMO_VETUSDT_1749107492
+🧠 12:41:32.387 | SIGNAL     | HBARUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.387 | RISK       | HBARUSDT | Assessing risk for BUY signal
+🧠 12:41:32.387 | RISK       | HBARUSDT | Position check: 0/15
+🧠 12:41:32.387 | RISK       | HBARUSDT | Max position size: $5,000,000
+🧠 12:41:32.387 | RISK       | HBARUSDT | Risk score: 0.117
+🧠 12:41:32.387 | EXECUTION  | HBARUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.387 | EXECUTION  | HBARUSDT | Order details: 29931158.335828 HBA
+🧠 12:41:32.387 | EXECUTION  | HBARUSDT | Order executed: DEMO_HBARUSDT_1749107492
+🧠 12:41:32.387 | SIGNAL     | FETUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:32.387 | RISK       | FETUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.387 | RISK       | FETUSDT  | Position check: 0/15
+🧠 12:41:32.387 | RISK       | FETUSDT  | Max position size: $5,000,000
+🧠 12:41:32.387 | RISK       | FETUSDT  | Risk score: 0.117
+🧠 12:41:32.387 | EXECUTION  | FETUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.387 | EXECUTION  | FETUSDT  | Order details: 6337135.614702 FET
+🧠 12:41:32.387 | EXECUTION  | FETUSDT  | Order executed: DEMO_FETUSDT_1749107492
+🧠 12:41:32.387 | SIGNAL     | OCEANUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.387 | RISK       | OCEANUSDT | Assessing risk for BUY signal
+🧠 12:41:32.387 | RISK       | OCEANUSDT | Position check: 0/15
+🧠 12:41:32.387 | RISK       | OCEANUSDT | Max position size: $5,000,000
+🧠 12:41:32.387 | RISK       | OCEANUSDT | Risk score: 0.117
+🧠 12:41:32.387 | EXECUTION  | OCEANUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.387 | EXECUTION  | OCEANUSDT | Order details: 8165931.732811 OCE
+🧠 12:41:32.387 | EXECUTION  | OCEANUSDT | Order executed: DEMO_OCEANUSDT_1749107492
+🧠 12:41:32.387 | SIGNAL     | AGIXUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.387 | RISK       | AGIXUSDT | Assessing risk for BUY signal
+🧠 12:41:32.387 | RISK       | AGIXUSDT | Position check: 0/15
+🧠 12:41:32.387 | RISK       | AGIXUSDT | Max position size: $5,000,000
+🧠 12:41:32.387 | RISK       | AGIXUSDT | Risk score: 0.117
+🧠 12:41:32.387 | EXECUTION  | AGIXUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.387 | EXECUTION  | AGIXUSDT | Order details: 8141996.417522 AGI
+🧠 12:41:32.387 | EXECUTION  | AGIXUSDT | Order executed: DEMO_AGIXUSDT_1749107492
+🧠 12:41:32.387 | SIGNAL     | RNDRUSDT | SELL signal (conf: 0.95)
+🧠 12:41:32.387 | RISK       | RNDRUSDT | Assessing risk for SELL signal
+🧠 12:41:32.387 | RISK       | RNDRUSDT | Position check: 0/15
+🧠 12:41:32.387 | RISK       | RNDRUSDT | Max position size: $5,000,000
+🧠 12:41:32.387 | RISK       | RNDRUSDT | Risk score: 0.117
+🧠 12:41:32.387 | EXECUTION  | RNDRUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:32.387 | EXECUTION  | RNDRUSDT | Order details: 711237.553343 RND
+🧠 12:41:32.387 | EXECUTION  | RNDRUSDT | Order executed: DEMO_RNDRUSDT_1749107492
+🧠 12:41:32.387 | SIGNAL     | THETAUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.387 | RISK       | THETAUSDT | Assessing risk for BUY signal
+🧠 12:41:32.387 | RISK       | THETAUSDT | Position check: 0/15
+🧠 12:41:32.387 | RISK       | THETAUSDT | Max position size: $5,000,000
+🧠 12:41:32.387 | RISK       | THETAUSDT | Risk score: 0.117
+🧠 12:41:32.387 | EXECUTION  | THETAUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.387 | EXECUTION  | THETAUSDT | Order details: 6596306.068602 THE
+🧠 12:41:32.387 | EXECUTION  | THETAUSDT | Order executed: DEMO_THETAUSDT_1749107492
+🧠 12:41:32.387 | SIGNAL     | FILUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.387 | RISK       | FILUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.388 | RISK       | FILUSDT  | Position check: 0/15
+🧠 12:41:32.388 | RISK       | FILUSDT  | Max position size: $5,000,000
+🧠 12:41:32.388 | RISK       | FILUSDT  | Risk score: 0.117
+🧠 12:41:32.388 | EXECUTION  | FILUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.388 | EXECUTION  | FILUSDT  | Order details: 1950838.860710 FIL
+🧠 12:41:32.388 | EXECUTION  | FILUSDT  | Order executed: DEMO_FILUSDT_1749107492
+🧠 12:41:32.388 | SIGNAL     | ARUSDT   | SELL signal (conf: 0.95)
+🧠 12:41:32.388 | RISK       | ARUSDT   | Assessing risk for SELL signal
+🧠 12:41:32.388 | RISK       | ARUSDT   | Position check: 0/15
+🧠 12:41:32.388 | RISK       | ARUSDT   | Max position size: $5,000,000
+🧠 12:41:32.388 | RISK       | ARUSDT   | Risk score: 0.117
+🧠 12:41:32.388 | EXECUTION  | ARUSDT   | Preparing SELL order for $5,000,000
+🧠 12:41:32.388 | EXECUTION  | ARUSDT   | Order details: 776397.515528 ARU
+🧠 12:41:32.388 | EXECUTION  | ARUSDT   | Order executed: DEMO_ARUSDT_1749107492
+🧠 12:41:32.388 | SIGNAL     | STXUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:32.388 | RISK       | STXUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.388 | RISK       | STXUSDT  | Position check: 0/15
+🧠 12:41:32.388 | RISK       | STXUSDT  | Max position size: $5,000,000
+🧠 12:41:32.388 | RISK       | STXUSDT  | Risk score: 0.117
+🧠 12:41:32.388 | EXECUTION  | STXUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.388 | EXECUTION  | STXUSDT  | Order details: 6666666.666667 STX
+🧠 12:41:32.388 | EXECUTION  | STXUSDT  | Order executed: DEMO_STXUSDT_1749107492
+🧠 12:41:32.388 | SIGNAL     | ICPUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.388 | RISK       | ICPUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.388 | RISK       | ICPUSDT  | Position check: 0/15
+🧠 12:41:32.388 | RISK       | ICPUSDT  | Max position size: $5,000,000
+🧠 12:41:32.388 | RISK       | ICPUSDT  | Risk score: 0.117
+🧠 12:41:32.388 | EXECUTION  | ICPUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.388 | EXECUTION  | ICPUSDT  | Order details: 961168.781238 ICP
+🧠 12:41:32.388 | EXECUTION  | ICPUSDT  | Order executed: DEMO_ICPUSDT_1749107492
+🧠 12:41:32.388 | SIGNAL     | ALGOUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.388 | RISK       | ALGOUSDT | Assessing risk for BUY signal
+🧠 12:41:32.388 | RISK       | ALGOUSDT | Position check: 0/15
+🧠 12:41:32.388 | RISK       | ALGOUSDT | Max position size: $5,000,000
+🧠 12:41:32.388 | RISK       | ALGOUSDT | Risk score: 0.117
+🧠 12:41:32.388 | EXECUTION  | ALGOUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.388 | EXECUTION  | ALGOUSDT | Order details: 26301946.344029 ALG
+🧠 12:41:32.388 | EXECUTION  | ALGOUSDT | Order executed: DEMO_ALGOUSDT_1749107492
+🧠 12:41:32.388 | SIGNAL     | XMRUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.388 | RISK       | XMRUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.388 | RISK       | XMRUSDT  | Position check: 0/15
+🧠 12:41:32.388 | RISK       | XMRUSDT  | Max position size: $5,000,000
+🧠 12:41:32.388 | RISK       | XMRUSDT  | Risk score: 0.117
+🧠 12:41:32.388 | EXECUTION  | XMRUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.388 | EXECUTION  | XMRUSDT  | Order details: 42122.999158 XMR
+🧠 12:41:32.388 | EXECUTION  | XMRUSDT  | Order executed: DEMO_XMRUSDT_1749107492
+🧠 12:41:32.388 | SIGNAL     | ZECUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.388 | RISK       | ZECUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.388 | RISK       | ZECUSDT  | Position check: 0/15
+🧠 12:41:32.388 | RISK       | ZECUSDT  | Max position size: $5,000,000
+🧠 12:41:32.388 | RISK       | ZECUSDT  | Risk score: 0.117
+🧠 12:41:32.388 | EXECUTION  | ZECUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.388 | EXECUTION  | ZECUSDT  | Order details: 100280.786201 ZEC
+🧠 12:41:32.388 | EXECUTION  | ZECUSDT  | Order executed: DEMO_ZECUSDT_1749107492
+🧠 12:41:32.388 | SIGNAL     | DASHUSDT | SELL signal (conf: 0.95)
+🧠 12:41:32.388 | RISK       | DASHUSDT | Assessing risk for SELL signal
+🧠 12:41:32.388 | RISK       | DASHUSDT | Position check: 0/15
+🧠 12:41:32.388 | RISK       | DASHUSDT | Max position size: $5,000,000
+🧠 12:41:32.388 | RISK       | DASHUSDT | Risk score: 0.117
+🧠 12:41:32.388 | EXECUTION  | DASHUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:32.388 | EXECUTION  | DASHUSDT | Order details: 233644.859813 DAS
+🧠 12:41:32.389 | EXECUTION  | DASHUSDT | Order executed: DEMO_DASHUSDT_1749107492
+🧠 12:41:32.389 | SIGNAL     | SCRTUSDT | BUY signal (conf: 0.95)
+🧠 12:41:32.389 | RISK       | SCRTUSDT | Assessing risk for BUY signal
+🧠 12:41:32.389 | RISK       | SCRTUSDT | Position check: 0/15
+🧠 12:41:32.389 | RISK       | SCRTUSDT | Max position size: $5,000,000
+🧠 12:41:32.389 | RISK       | SCRTUSDT | Risk score: 0.117
+🧠 12:41:32.389 | EXECUTION  | SCRTUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:32.389 | EXECUTION  | SCRTUSDT | Order details: 28264556.246467 SCR
+🧠 12:41:32.389 | EXECUTION  | SCRTUSDT | Order executed: DEMO_SCRTUSDT_1749107492
+🧠 12:41:32.389 | SIGNAL     | APTUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.389 | RISK       | APTUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.389 | RISK       | APTUSDT  | Position check: 0/15
+🧠 12:41:32.389 | RISK       | APTUSDT  | Max position size: $5,000,000
+🧠 12:41:32.389 | RISK       | APTUSDT  | Risk score: 0.117
+🧠 12:41:32.389 | EXECUTION  | APTUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.389 | EXECUTION  | APTUSDT  | Order details: 1045806.316670 APT
+🧠 12:41:32.389 | EXECUTION  | APTUSDT  | Order executed: DEMO_APTUSDT_1749107492
+🧠 12:41:32.389 | SIGNAL     | SUIUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.389 | RISK       | SUIUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.389 | RISK       | SUIUSDT  | Position check: 0/15
+🧠 12:41:32.389 | RISK       | SUIUSDT  | Max position size: $5,000,000
+🧠 12:41:32.389 | RISK       | SUIUSDT  | Risk score: 0.117
+🧠 12:41:32.389 | EXECUTION  | SUIUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.389 | EXECUTION  | SUIUSDT  | Order details: 1579030.475288 SUI
+🧠 12:41:32.389 | EXECUTION  | SUIUSDT  | Order executed: DEMO_SUIUSDT_1749107492
+🧠 12:41:32.389 | SIGNAL     | INJUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.389 | RISK       | INJUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.389 | RISK       | INJUSDT  | Position check: 0/15
+🧠 12:41:32.389 | RISK       | INJUSDT  | Max position size: $5,000,000
+🧠 12:41:32.389 | RISK       | INJUSDT  | Risk score: 0.117
+🧠 12:41:32.389 | EXECUTION  | INJUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.389 | EXECUTION  | INJUSDT  | Order details: 411184.210526 INJ
+🧠 12:41:32.389 | EXECUTION  | INJUSDT  | Order executed: DEMO_INJUSDT_1749107492
+🧠 12:41:32.389 | SIGNAL     | TIAUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:32.389 | RISK       | TIAUSDT  | Assessing risk for SELL signal
+🧠 12:41:32.389 | RISK       | TIAUSDT  | Position check: 0/15
+🧠 12:41:32.389 | RISK       | TIAUSDT  | Max position size: $5,000,000
+🧠 12:41:32.389 | RISK       | TIAUSDT  | Risk score: 0.117
+🧠 12:41:32.389 | EXECUTION  | TIAUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:32.389 | EXECUTION  | TIAUSDT  | Order details: 2326663.564449 TIA
+🧠 12:41:32.389 | EXECUTION  | TIAUSDT  | Order executed: DEMO_TIAUSDT_1749107492
+🧠 12:41:32.389 | SIGNAL     | SEIUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:32.389 | RISK       | SEIUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.389 | RISK       | SEIUSDT  | Position check: 0/15
+🧠 12:41:32.389 | RISK       | SEIUSDT  | Max position size: $5,000,000
+🧠 12:41:32.389 | RISK       | SEIUSDT  | Risk score: 0.117
+🧠 12:41:32.389 | EXECUTION  | SEIUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.389 | EXECUTION  | SEIUSDT  | Order details: 26028110.359188 SEI
+🧠 12:41:32.389 | EXECUTION  | SEIUSDT  | Order executed: DEMO_SEIUSDT_1749107492
+🧠 12:41:32.389 | SIGNAL     | LTCUSDT  | BUY signal (momentum: 0.87)
+🧠 12:41:32.389 | RISK       | LTCUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.390 | RISK       | LTCUSDT  | Position check: 0/15
+🧠 12:41:32.390 | RISK       | LTCUSDT  | Max position size: $5,000,000
+🧠 12:41:32.390 | RISK       | LTCUSDT  | Risk score: 0.142
+🧠 12:41:32.390 | EXECUTION  | LTCUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.390 | EXECUTION  | LTCUSDT  | Order details: 57182.067704 LTC
+🧠 12:41:32.390 | EXECUTION  | LTCUSDT  | Order executed: DEMO_LTCUSDT_1749107492
+🧠 12:41:32.390 | SIGNAL     | MKRUSDT  | BUY signal (momentum: 0.84)
+🧠 12:41:32.390 | RISK       | MKRUSDT  | Assessing risk for BUY signal
+🧠 12:41:32.390 | RISK       | MKRUSDT  | Position check: 0/15
+🧠 12:41:32.390 | RISK       | MKRUSDT  | Max position size: $5,000,000
+🧠 12:41:32.390 | RISK       | MKRUSDT  | Risk score: 0.153
+🧠 12:41:32.390 | EXECUTION  | MKRUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:32.390 | EXECUTION  | MKRUSDT  | Order details: 2802.690583 MKR
+🧠 12:41:32.390 | EXECUTION  | MKRUSDT  | Order executed: DEMO_MKRUSDT_1749107492
+127.0.0.1 - - [05/Jun/2025 12:41:34] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:34] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:34] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:34] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:34] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:36] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:36] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:36] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:36] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:36] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:38] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:38] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:38] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:38] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:38] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:40] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:40] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:40] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:40] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:40] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:42] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:42] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:42] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:42] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:42] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:44] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:44] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:44] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:44] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:44] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:46] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:46] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:46] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:46] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:46] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:48] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:48] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:48] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:48] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:48] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+🧠 12:41:48.697 | SIGNAL     | BTCUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.697 | RISK       | BTCUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.697 | RISK       | BTCUSDT  | Position check: 0/15
+🧠 12:41:48.697 | RISK       | BTCUSDT  | Max position size: $5,000,000
+🧠 12:41:48.697 | RISK       | BTCUSDT  | Risk score: 0.117
+🧠 12:41:48.697 | EXECUTION  | BTCUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.697 | EXECUTION  | BTCUSDT  | Order details: 47.823555 BTC
+🧠 12:41:48.697 | EXECUTION  | BTCUSDT  | Order executed: DEMO_BTCUSDT_1749107508
+🧠 12:41:48.697 | SIGNAL     | ETHUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:48.697 | RISK       | ETHUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.698 | RISK       | ETHUSDT  | Position check: 0/15
+🧠 12:41:48.698 | RISK       | ETHUSDT  | Max position size: $5,000,000
+🧠 12:41:48.698 | RISK       | ETHUSDT  | Risk score: 0.117
+🧠 12:41:48.698 | EXECUTION  | ETHUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.698 | EXECUTION  | ETHUSDT  | Order details: 1915.532671 ETH
+🧠 12:41:48.698 | EXECUTION  | ETHUSDT  | Order executed: DEMO_ETHUSDT_1749107508
+🧠 12:41:48.698 | SIGNAL     | BNBUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.698 | RISK       | BNBUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.698 | RISK       | BNBUSDT  | Position check: 0/15
+🧠 12:41:48.698 | RISK       | BNBUSDT  | Max position size: $5,000,000
+🧠 12:41:48.698 | RISK       | BNBUSDT  | Risk score: 0.117
+🧠 12:41:48.698 | EXECUTION  | BNBUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.698 | EXECUTION  | BNBUSDT  | Order details: 7492.544918 BNB
+🧠 12:41:48.698 | EXECUTION  | BNBUSDT  | Order executed: DEMO_BNBUSDT_1749107508
+🧠 12:41:48.698 | SIGNAL     | ADAUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:48.698 | RISK       | ADAUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.698 | RISK       | ADAUSDT  | Position check: 0/15
+🧠 12:41:48.698 | RISK       | ADAUSDT  | Max position size: $5,000,000
+🧠 12:41:48.698 | RISK       | ADAUSDT  | Risk score: 0.117
+🧠 12:41:48.698 | EXECUTION  | ADAUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.698 | EXECUTION  | ADAUSDT  | Order details: 7378984.651712 ADA
+🧠 12:41:48.698 | EXECUTION  | ADAUSDT  | Order executed: DEMO_ADAUSDT_1749107508
+🧠 12:41:48.698 | SIGNAL     | SOLUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.698 | RISK       | SOLUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.698 | RISK       | SOLUSDT  | Position check: 0/15
+🧠 12:41:48.698 | RISK       | SOLUSDT  | Max position size: $5,000,000
+🧠 12:41:48.698 | RISK       | SOLUSDT  | Risk score: 0.117
+🧠 12:41:48.698 | EXECUTION  | SOLUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.698 | EXECUTION  | SOLUSDT  | Order details: 32806.246309 SOL
+🧠 12:41:48.698 | EXECUTION  | SOLUSDT  | Order executed: DEMO_SOLUSDT_1749107508
+🧠 12:41:48.698 | SIGNAL     | DOTUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.698 | RISK       | DOTUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.698 | RISK       | DOTUSDT  | Position check: 0/15
+🧠 12:41:48.698 | RISK       | DOTUSDT  | Max position size: $5,000,000
+🧠 12:41:48.698 | RISK       | DOTUSDT  | Risk score: 0.117
+🧠 12:41:48.698 | EXECUTION  | DOTUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.698 | EXECUTION  | DOTUSDT  | Order details: 1243781.094527 DOT
+🧠 12:41:48.698 | EXECUTION  | DOTUSDT  | Order executed: DEMO_DOTUSDT_1749107508
+🧠 12:41:48.698 | SIGNAL     | AVAXUSDT | SELL signal (conf: 0.95)
+🧠 12:41:48.698 | RISK       | AVAXUSDT | Assessing risk for SELL signal
+🧠 12:41:48.699 | RISK       | AVAXUSDT | Position check: 0/15
+🧠 12:41:48.699 | RISK       | AVAXUSDT | Max position size: $5,000,000
+🧠 12:41:48.699 | RISK       | AVAXUSDT | Risk score: 0.117
+🧠 12:41:48.699 | EXECUTION  | AVAXUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:48.699 | EXECUTION  | AVAXUSDT | Order details: 248385.494287 AVA
+🧠 12:41:48.699 | EXECUTION  | AVAXUSDT | Order executed: DEMO_AVAXUSDT_1749107508
+🧠 12:41:48.699 | SIGNAL     | MATICUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.699 | RISK       | MATICUSDT | Assessing risk for BUY signal
+🧠 12:41:48.699 | RISK       | MATICUSDT | Position check: 0/15
+🧠 12:41:48.699 | RISK       | MATICUSDT | Max position size: $5,000,000
+🧠 12:41:48.699 | RISK       | MATICUSDT | Risk score: 0.117
+🧠 12:41:48.699 | EXECUTION  | MATICUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.699 | EXECUTION  | MATICUSDT | Order details: 13178703.215604 MAT
+🧠 12:41:48.699 | EXECUTION  | MATICUSDT | Order executed: DEMO_MATICUSDT_1749107508
+🧠 12:41:48.699 | SIGNAL     | ATOMUSDT | SELL signal (conf: 0.95)
+🧠 12:41:48.699 | RISK       | ATOMUSDT | Assessing risk for SELL signal
+🧠 12:41:48.699 | RISK       | ATOMUSDT | Position check: 0/15
+🧠 12:41:48.699 | RISK       | ATOMUSDT | Max position size: $5,000,000
+🧠 12:41:48.699 | RISK       | ATOMUSDT | Risk score: 0.117
+🧠 12:41:48.699 | EXECUTION  | ATOMUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:48.699 | EXECUTION  | ATOMUSDT | Order details: 1162790.697674 ATO
+🧠 12:41:48.699 | EXECUTION  | ATOMUSDT | Order executed: DEMO_ATOMUSDT_1749107508
+🧠 12:41:48.699 | SIGNAL     | NEARUSDT | SELL signal (conf: 0.95)
+🧠 12:41:48.699 | RISK       | NEARUSDT | Assessing risk for SELL signal
+🧠 12:41:48.699 | RISK       | NEARUSDT | Position check: 0/15
+🧠 12:41:48.699 | RISK       | NEARUSDT | Max position size: $5,000,000
+🧠 12:41:48.699 | RISK       | NEARUSDT | Risk score: 0.117
+🧠 12:41:48.699 | EXECUTION  | NEARUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:48.699 | EXECUTION  | NEARUSDT | Order details: 2050020.500205 NEA
+🧠 12:41:48.699 | EXECUTION  | NEARUSDT | Order executed: DEMO_NEARUSDT_1749107508
+🧠 12:41:48.699 | SIGNAL     | LINKUSDT | SELL signal (conf: 0.95)
+🧠 12:41:48.699 | RISK       | LINKUSDT | Assessing risk for SELL signal
+🧠 12:41:48.700 | RISK       | LINKUSDT | Position check: 0/15
+🧠 12:41:48.700 | RISK       | LINKUSDT | Max position size: $5,000,000
+🧠 12:41:48.700 | RISK       | LINKUSDT | Risk score: 0.117
+🧠 12:41:48.700 | EXECUTION  | LINKUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:48.700 | EXECUTION  | LINKUSDT | Order details: 363636.363636 LIN
+🧠 12:41:48.700 | EXECUTION  | LINKUSDT | Order executed: DEMO_LINKUSDT_1749107508
+🧠 12:41:48.700 | SIGNAL     | UNIUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.700 | RISK       | UNIUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.700 | RISK       | UNIUSDT  | Position check: 0/15
+🧠 12:41:48.700 | RISK       | UNIUSDT  | Max position size: $5,000,000
+🧠 12:41:48.700 | RISK       | UNIUSDT  | Risk score: 0.117
+🧠 12:41:48.700 | EXECUTION  | UNIUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.700 | EXECUTION  | UNIUSDT  | Order details: 795544.948290 UNI
+🧠 12:41:48.700 | EXECUTION  | UNIUSDT  | Order executed: DEMO_UNIUSDT_1749107508
+🧠 12:41:48.700 | SIGNAL     | AAVEUSDT | SELL signal (conf: 0.95)
+🧠 12:41:48.700 | RISK       | AAVEUSDT | Assessing risk for SELL signal
+🧠 12:41:48.700 | RISK       | AAVEUSDT | Position check: 0/15
+🧠 12:41:48.700 | RISK       | AAVEUSDT | Max position size: $5,000,000
+🧠 12:41:48.700 | RISK       | AAVEUSDT | Risk score: 0.117
+🧠 12:41:48.700 | EXECUTION  | AAVEUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:48.700 | EXECUTION  | AAVEUSDT | Order details: 18981.815421 AAV
+🧠 12:41:48.700 | EXECUTION  | AAVEUSDT | Order executed: DEMO_AAVEUSDT_1749107508
+🧠 12:41:48.700 | SIGNAL     | CRVUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:48.700 | RISK       | CRVUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.700 | RISK       | CRVUSDT  | Position check: 0/15
+🧠 12:41:48.700 | RISK       | CRVUSDT  | Max position size: $5,000,000
+🧠 12:41:48.700 | RISK       | CRVUSDT  | Risk score: 0.117
+🧠 12:41:48.700 | EXECUTION  | CRVUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.700 | EXECUTION  | CRVUSDT  | Order details: 7915149.596327 CRV
+🧠 12:41:48.700 | EXECUTION  | CRVUSDT  | Order executed: DEMO_CRVUSDT_1749107508
+🧠 12:41:48.700 | SIGNAL     | COMPUSDT | SELL signal (conf: 0.95)
+🧠 12:41:48.700 | RISK       | COMPUSDT | Assessing risk for SELL signal
+🧠 12:41:48.700 | RISK       | COMPUSDT | Position check: 0/15
+🧠 12:41:48.701 | RISK       | COMPUSDT | Max position size: $5,000,000
+🧠 12:41:48.701 | RISK       | COMPUSDT | Risk score: 0.117
+🧠 12:41:48.701 | EXECUTION  | COMPUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:48.701 | EXECUTION  | COMPUSDT | Order details: 114968.958381 COM
+🧠 12:41:48.701 | EXECUTION  | COMPUSDT | Order executed: DEMO_COMPUSDT_1749107508
+🧠 12:41:48.701 | SIGNAL     | ARBUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:48.701 | RISK       | ARBUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.701 | RISK       | ARBUSDT  | Position check: 0/15
+🧠 12:41:48.701 | RISK       | ARBUSDT  | Max position size: $5,000,000
+🧠 12:41:48.701 | RISK       | ARBUSDT  | Risk score: 0.117
+🧠 12:41:48.701 | EXECUTION  | ARBUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.701 | EXECUTION  | ARBUSDT  | Order details: 14124293.785311 ARB
+🧠 12:41:48.701 | EXECUTION  | ARBUSDT  | Order executed: DEMO_ARBUSDT_1749107508
+🧠 12:41:48.701 | SIGNAL     | OPUSDT   | BUY signal (conf: 0.95)
+🧠 12:41:48.701 | RISK       | OPUSDT   | Assessing risk for BUY signal
+🧠 12:41:48.701 | RISK       | OPUSDT   | Position check: 0/15
+🧠 12:41:48.701 | RISK       | OPUSDT   | Max position size: $5,000,000
+🧠 12:41:48.701 | RISK       | OPUSDT   | Risk score: 0.117
+🧠 12:41:48.701 | EXECUTION  | OPUSDT   | Preparing BUY order for $5,000,000
+🧠 12:41:48.701 | EXECUTION  | OPUSDT   | Order details: 7923930.269414 OPU
+🧠 12:41:48.701 | EXECUTION  | OPUSDT   | Order executed: DEMO_OPUSDT_1749107508
+🧠 12:41:48.701 | SIGNAL     | LTCUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.701 | RISK       | LTCUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.701 | RISK       | LTCUSDT  | Position check: 0/15
+🧠 12:41:48.701 | RISK       | LTCUSDT  | Max position size: $5,000,000
+🧠 12:41:48.701 | RISK       | LTCUSDT  | Risk score: 0.117
+🧠 12:41:48.701 | EXECUTION  | LTCUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.701 | EXECUTION  | LTCUSDT  | Order details: 57201.693170 LTC
+🧠 12:41:48.701 | EXECUTION  | LTCUSDT  | Order executed: DEMO_LTCUSDT_1749107508
+🧠 12:41:48.701 | SIGNAL     | BCHUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.701 | RISK       | BCHUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.701 | RISK       | BCHUSDT  | Position check: 0/15
+🧠 12:41:48.701 | RISK       | BCHUSDT  | Max position size: $5,000,000
+🧠 12:41:48.701 | RISK       | BCHUSDT  | Risk score: 0.117
+🧠 12:41:48.701 | EXECUTION  | BCHUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.701 | EXECUTION  | BCHUSDT  | Order details: 12447.099826 BCH
+🧠 12:41:48.701 | EXECUTION  | BCHUSDT  | Order executed: DEMO_BCHUSDT_1749107508
+🧠 12:41:48.701 | SIGNAL     | ETCUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.701 | RISK       | ETCUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.701 | RISK       | ETCUSDT  | Position check: 0/15
+🧠 12:41:48.701 | RISK       | ETCUSDT  | Max position size: $5,000,000
+🧠 12:41:48.701 | RISK       | ETCUSDT  | Risk score: 0.117
+🧠 12:41:48.701 | EXECUTION  | ETCUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.701 | EXECUTION  | ETCUSDT  | Order details: 290023.201856 ETC
+🧠 12:41:48.701 | EXECUTION  | ETCUSDT  | Order executed: DEMO_ETCUSDT_1749107508
+🧠 12:41:48.701 | SIGNAL     | DOGEUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.701 | RISK       | DOGEUSDT | Assessing risk for BUY signal
+🧠 12:41:48.702 | RISK       | DOGEUSDT | Position check: 0/15
+🧠 12:41:48.702 | RISK       | DOGEUSDT | Max position size: $5,000,000
+🧠 12:41:48.702 | RISK       | DOGEUSDT | Risk score: 0.117
+🧠 12:41:48.702 | EXECUTION  | DOGEUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.702 | EXECUTION  | DOGEUSDT | Order details: 26537869.539833 DOG
+🧠 12:41:48.702 | EXECUTION  | DOGEUSDT | Order executed: DEMO_DOGEUSDT_1749107508
+🧠 12:41:48.702 | SIGNAL     | SHIBUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.702 | RISK       | SHIBUSDT | Assessing risk for BUY signal
+🧠 12:41:48.702 | RISK       | SHIBUSDT | Position check: 0/15
+🧠 12:41:48.702 | RISK       | SHIBUSDT | Max position size: $5,000,000
+🧠 12:41:48.702 | RISK       | SHIBUSDT | Risk score: 0.117
+🧠 12:41:48.702 | EXECUTION  | SHIBUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.702 | EXECUTION  | SHIBUSDT | Order details: 391542678151.918579 SHI
+🧠 12:41:48.702 | EXECUTION  | SHIBUSDT | Order executed: DEMO_SHIBUSDT_1749107508
+🧠 12:41:48.702 | SIGNAL     | PEPEUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.702 | RISK       | PEPEUSDT | Assessing risk for BUY signal
+🧠 12:41:48.702 | RISK       | PEPEUSDT | Position check: 0/15
+🧠 12:41:48.702 | RISK       | PEPEUSDT | Max position size: $5,000,000
+🧠 12:41:48.702 | RISK       | PEPEUSDT | Risk score: 0.117
+🧠 12:41:48.702 | EXECUTION  | PEPEUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.702 | EXECUTION  | PEPEUSDT | Order details: 425894378194.207886 PEP
+🧠 12:41:48.702 | EXECUTION  | PEPEUSDT | Order executed: DEMO_PEPEUSDT_1749107508
+🧠 12:41:48.702 | SIGNAL     | FLOKIUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.702 | RISK       | FLOKIUSDT | Assessing risk for BUY signal
+🧠 12:41:48.702 | RISK       | FLOKIUSDT | Position check: 0/15
+🧠 12:41:48.702 | RISK       | FLOKIUSDT | Max position size: $5,000,000
+🧠 12:41:48.702 | RISK       | FLOKIUSDT | Risk score: 0.117
+🧠 12:41:48.702 | EXECUTION  | FLOKIUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.702 | EXECUTION  | FLOKIUSDT | Order details: 61267001592.942039 FLO
+🧠 12:41:48.702 | EXECUTION  | FLOKIUSDT | Order executed: DEMO_FLOKIUSDT_1749107508
+🧠 12:41:48.702 | SIGNAL     | BONKUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.702 | RISK       | BONKUSDT | Assessing risk for BUY signal
+🧠 12:41:48.702 | RISK       | BONKUSDT | Position check: 0/15
+🧠 12:41:48.702 | RISK       | BONKUSDT | Max position size: $5,000,000
+🧠 12:41:48.702 | RISK       | BONKUSDT | Risk score: 0.117
+🧠 12:41:48.702 | EXECUTION  | BONKUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.702 | EXECUTION  | BONKUSDT | Order details: 318674314850.223083 BON
+🧠 12:41:48.702 | EXECUTION  | BONKUSDT | Order executed: DEMO_BONKUSDT_1749107508
+🧠 12:41:48.702 | SIGNAL     | SANDUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.702 | RISK       | SANDUSDT | Assessing risk for BUY signal
+🧠 12:41:48.703 | RISK       | SANDUSDT | Position check: 0/15
+🧠 12:41:48.703 | RISK       | SANDUSDT | Max position size: $5,000,000
+🧠 12:41:48.703 | RISK       | SANDUSDT | Risk score: 0.117
+🧠 12:41:48.703 | EXECUTION  | SANDUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.703 | EXECUTION  | SANDUSDT | Order details: 18254837.531946 SAN
+🧠 12:41:48.703 | EXECUTION  | SANDUSDT | Order executed: DEMO_SANDUSDT_1749107508
+🧠 12:41:48.703 | SIGNAL     | MANAUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.703 | RISK       | MANAUSDT | Assessing risk for BUY signal
+🧠 12:41:48.703 | RISK       | MANAUSDT | Position check: 0/15
+🧠 12:41:48.703 | RISK       | MANAUSDT | Max position size: $5,000,000
+🧠 12:41:48.703 | RISK       | MANAUSDT | Risk score: 0.117
+🧠 12:41:48.703 | EXECUTION  | MANAUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.703 | EXECUTION  | MANAUSDT | Order details: 18234865.061999 MAN
+🧠 12:41:48.703 | EXECUTION  | MANAUSDT | Order executed: DEMO_MANAUSDT_1749107508
+🧠 12:41:48.703 | SIGNAL     | AXSUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.703 | RISK       | AXSUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.703 | RISK       | AXSUSDT  | Position check: 0/15
+🧠 12:41:48.703 | RISK       | AXSUSDT  | Max position size: $5,000,000
+🧠 12:41:48.703 | RISK       | AXSUSDT  | Risk score: 0.117
+🧠 12:41:48.703 | EXECUTION  | AXSUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.703 | EXECUTION  | AXSUSDT  | Order details: 2020202.020202 AXS
+🧠 12:41:48.703 | EXECUTION  | AXSUSDT  | Order executed: DEMO_AXSUSDT_1749107508
+🧠 12:41:48.703 | SIGNAL     | ENJUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:48.703 | RISK       | ENJUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.703 | RISK       | ENJUSDT  | Position check: 0/15
+🧠 12:41:48.703 | RISK       | ENJUSDT  | Max position size: $5,000,000
+🧠 12:41:48.703 | RISK       | ENJUSDT  | Risk score: 0.117
+🧠 12:41:48.703 | EXECUTION  | ENJUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.703 | EXECUTION  | ENJUSDT  | Order details: 67385444.743935 ENJ
+🧠 12:41:48.703 | EXECUTION  | ENJUSDT  | Order executed: DEMO_ENJUSDT_1749107508
+🧠 12:41:48.703 | SIGNAL     | GALAUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.703 | RISK       | GALAUSDT | Assessing risk for BUY signal
+🧠 12:41:48.703 | RISK       | GALAUSDT | Position check: 0/15
+🧠 12:41:48.703 | RISK       | GALAUSDT | Max position size: $5,000,000
+🧠 12:41:48.703 | RISK       | GALAUSDT | Risk score: 0.117
+🧠 12:41:48.703 | EXECUTION  | GALAUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.703 | EXECUTION  | GALAUSDT | Order details: 305810397.553517 GAL
+🧠 12:41:48.703 | EXECUTION  | GALAUSDT | Order executed: DEMO_GALAUSDT_1749107508
+🧠 12:41:48.703 | SIGNAL     | MKRUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.703 | RISK       | MKRUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.703 | RISK       | MKRUSDT  | Position check: 0/15
+🧠 12:41:48.703 | RISK       | MKRUSDT  | Max position size: $5,000,000
+🧠 12:41:48.703 | RISK       | MKRUSDT  | Risk score: 0.117
+🧠 12:41:48.703 | EXECUTION  | MKRUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.703 | EXECUTION  | MKRUSDT  | Order details: 2804.262479 MKR
+🧠 12:41:48.703 | EXECUTION  | MKRUSDT  | Order executed: DEMO_MKRUSDT_1749107508
+🧠 12:41:48.703 | SIGNAL     | SNXUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:48.703 | RISK       | SNXUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.703 | RISK       | SNXUSDT  | Position check: 0/15
+🧠 12:41:48.703 | RISK       | SNXUSDT  | Max position size: $5,000,000
+🧠 12:41:48.703 | RISK       | SNXUSDT  | Risk score: 0.117
+🧠 12:41:48.703 | EXECUTION  | SNXUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.703 | EXECUTION  | SNXUSDT  | Order details: 7440476.190476 SNX
+🧠 12:41:48.703 | EXECUTION  | SNXUSDT  | Order executed: DEMO_SNXUSDT_1749107508
+🧠 12:41:48.703 | SIGNAL     | YFIUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.703 | RISK       | YFIUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.704 | RISK       | YFIUSDT  | Position check: 0/15
+🧠 12:41:48.704 | RISK       | YFIUSDT  | Max position size: $5,000,000
+🧠 12:41:48.704 | RISK       | YFIUSDT  | Risk score: 0.117
+🧠 12:41:48.704 | EXECUTION  | YFIUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.704 | EXECUTION  | YFIUSDT  | Order details: 967.305088 YFI
+🧠 12:41:48.704 | EXECUTION  | YFIUSDT  | Order executed: DEMO_YFIUSDT_1749107508
+🧠 12:41:48.704 | SIGNAL     | 1INCHUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.704 | RISK       | 1INCHUSDT | Assessing risk for BUY signal
+🧠 12:41:48.704 | RISK       | 1INCHUSDT | Position check: 0/15
+🧠 12:41:48.704 | RISK       | 1INCHUSDT | Max position size: $5,000,000
+🧠 12:41:48.704 | RISK       | 1INCHUSDT | Risk score: 0.117
+🧠 12:41:48.704 | EXECUTION  | 1INCHUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.704 | EXECUTION  | 1INCHUSDT | Order details: 23798191.337458 1IN
+🧠 12:41:48.704 | EXECUTION  | 1INCHUSDT | Order executed: DEMO_1INCHUSDT_1749107508
+🧠 12:41:48.704 | SIGNAL     | SUSHIUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.704 | RISK       | SUSHIUSDT | Assessing risk for BUY signal
+🧠 12:41:48.704 | RISK       | SUSHIUSDT | Position check: 0/15
+🧠 12:41:48.704 | RISK       | SUSHIUSDT | Max position size: $5,000,000
+🧠 12:41:48.704 | RISK       | SUSHIUSDT | Risk score: 0.117
+🧠 12:41:48.704 | EXECUTION  | SUSHIUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.704 | EXECUTION  | SUSHIUSDT | Order details: 7530120.481928 SUS
+🧠 12:41:48.704 | EXECUTION  | SUSHIUSDT | Order executed: DEMO_SUSHIUSDT_1749107508
+🧠 12:41:48.704 | SIGNAL     | XLMUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:48.704 | RISK       | XLMUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.704 | RISK       | XLMUSDT  | Position check: 0/15
+🧠 12:41:48.704 | RISK       | XLMUSDT  | Max position size: $5,000,000
+🧠 12:41:48.704 | RISK       | XLMUSDT  | Risk score: 0.117
+🧠 12:41:48.704 | EXECUTION  | XLMUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.704 | EXECUTION  | XLMUSDT  | Order details: 18846588.767433 XLM
+🧠 12:41:48.704 | EXECUTION  | XLMUSDT  | Order executed: DEMO_XLMUSDT_1749107508
+🧠 12:41:48.704 | SIGNAL     | XRPUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.704 | RISK       | XRPUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.704 | RISK       | XRPUSDT  | Position check: 0/15
+🧠 12:41:48.704 | RISK       | XRPUSDT  | Max position size: $5,000,000
+🧠 12:41:48.704 | RISK       | XRPUSDT  | Risk score: 0.117
+🧠 12:41:48.704 | EXECUTION  | XRPUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.704 | EXECUTION  | XRPUSDT  | Order details: 2279565.970639 XRP
+🧠 12:41:48.704 | EXECUTION  | XRPUSDT  | Order executed: DEMO_XRPUSDT_1749107508
+🧠 12:41:48.704 | SIGNAL     | TRXUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:48.704 | RISK       | TRXUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.704 | RISK       | TRXUSDT  | Position check: 0/15
+🧠 12:41:48.704 | RISK       | TRXUSDT  | Max position size: $5,000,000
+🧠 12:41:48.704 | RISK       | TRXUSDT  | Risk score: 0.117
+🧠 12:41:48.704 | EXECUTION  | TRXUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.704 | EXECUTION  | TRXUSDT  | Order details: 18341892.883346 TRX
+🧠 12:41:48.704 | EXECUTION  | TRXUSDT  | Order executed: DEMO_TRXUSDT_1749107508
+🧠 12:41:48.704 | SIGNAL     | VETUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:48.704 | RISK       | VETUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.704 | RISK       | VETUSDT  | Position check: 0/15
+🧠 12:41:48.704 | RISK       | VETUSDT  | Max position size: $5,000,000
+🧠 12:41:48.704 | RISK       | VETUSDT  | Risk score: 0.117
+🧠 12:41:48.704 | EXECUTION  | VETUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.704 | EXECUTION  | VETUSDT  | Order details: 210437710.437710 VET
+🧠 12:41:48.704 | EXECUTION  | VETUSDT  | Order executed: DEMO_VETUSDT_1749107508
+🧠 12:41:48.704 | SIGNAL     | HBARUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.704 | RISK       | HBARUSDT | Assessing risk for BUY signal
+🧠 12:41:48.704 | RISK       | HBARUSDT | Position check: 0/15
+🧠 12:41:48.704 | RISK       | HBARUSDT | Max position size: $5,000,000
+🧠 12:41:48.704 | RISK       | HBARUSDT | Risk score: 0.117
+🧠 12:41:48.704 | EXECUTION  | HBARUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.705 | EXECUTION  | HBARUSDT | Order details: 29920411.704865 HBA
+🧠 12:41:48.705 | EXECUTION  | HBARUSDT | Order executed: DEMO_HBARUSDT_1749107508
+🧠 12:41:48.705 | SIGNAL     | FETUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:48.705 | RISK       | FETUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.705 | RISK       | FETUSDT  | Position check: 0/15
+🧠 12:41:48.705 | RISK       | FETUSDT  | Max position size: $5,000,000
+🧠 12:41:48.705 | RISK       | FETUSDT  | Risk score: 0.117
+🧠 12:41:48.705 | EXECUTION  | FETUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.705 | EXECUTION  | FETUSDT  | Order details: 6337135.614702 FET
+🧠 12:41:48.705 | EXECUTION  | FETUSDT  | Order executed: DEMO_FETUSDT_1749107508
+🧠 12:41:48.705 | SIGNAL     | OCEANUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.705 | RISK       | OCEANUSDT | Assessing risk for BUY signal
+🧠 12:41:48.705 | RISK       | OCEANUSDT | Position check: 0/15
+🧠 12:41:48.705 | RISK       | OCEANUSDT | Max position size: $5,000,000
+🧠 12:41:48.705 | RISK       | OCEANUSDT | Risk score: 0.117
+🧠 12:41:48.705 | EXECUTION  | OCEANUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.705 | EXECUTION  | OCEANUSDT | Order details: 8165931.732811 OCE
+🧠 12:41:48.705 | EXECUTION  | OCEANUSDT | Order executed: DEMO_OCEANUSDT_1749107508
+🧠 12:41:48.705 | SIGNAL     | AGIXUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.705 | RISK       | AGIXUSDT | Assessing risk for BUY signal
+🧠 12:41:48.705 | RISK       | AGIXUSDT | Position check: 0/15
+🧠 12:41:48.705 | RISK       | AGIXUSDT | Max position size: $5,000,000
+🧠 12:41:48.705 | RISK       | AGIXUSDT | Risk score: 0.117
+🧠 12:41:48.705 | EXECUTION  | AGIXUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.705 | EXECUTION  | AGIXUSDT | Order details: 8141996.417522 AGI
+🧠 12:41:48.705 | EXECUTION  | AGIXUSDT | Order executed: DEMO_AGIXUSDT_1749107508
+🧠 12:41:48.705 | SIGNAL     | RNDRUSDT | SELL signal (conf: 0.95)
+🧠 12:41:48.705 | RISK       | RNDRUSDT | Assessing risk for SELL signal
+🧠 12:41:48.705 | RISK       | RNDRUSDT | Position check: 0/15
+🧠 12:41:48.705 | RISK       | RNDRUSDT | Max position size: $5,000,000
+🧠 12:41:48.705 | RISK       | RNDRUSDT | Risk score: 0.117
+🧠 12:41:48.705 | EXECUTION  | RNDRUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:48.705 | EXECUTION  | RNDRUSDT | Order details: 711237.553343 RND
+🧠 12:41:48.705 | EXECUTION  | RNDRUSDT | Order executed: DEMO_RNDRUSDT_1749107508
+🧠 12:41:48.705 | SIGNAL     | THETAUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.705 | RISK       | THETAUSDT | Assessing risk for BUY signal
+🧠 12:41:48.705 | RISK       | THETAUSDT | Position check: 0/15
+🧠 12:41:48.705 | RISK       | THETAUSDT | Max position size: $5,000,000
+🧠 12:41:48.705 | RISK       | THETAUSDT | Risk score: 0.117
+🧠 12:41:48.705 | EXECUTION  | THETAUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.705 | EXECUTION  | THETAUSDT | Order details: 6587615.283267 THE
+🧠 12:41:48.705 | EXECUTION  | THETAUSDT | Order executed: DEMO_THETAUSDT_1749107508
+🧠 12:41:48.705 | SIGNAL     | FILUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.705 | RISK       | FILUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.705 | RISK       | FILUSDT  | Position check: 0/15
+🧠 12:41:48.705 | RISK       | FILUSDT  | Max position size: $5,000,000
+🧠 12:41:48.705 | RISK       | FILUSDT  | Risk score: 0.117
+🧠 12:41:48.705 | EXECUTION  | FILUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.705 | EXECUTION  | FILUSDT  | Order details: 1950078.003120 FIL
+🧠 12:41:48.705 | EXECUTION  | FILUSDT  | Order executed: DEMO_FILUSDT_1749107508
+🧠 12:41:48.705 | SIGNAL     | ARUSDT   | SELL signal (conf: 0.95)
+🧠 12:41:48.705 | RISK       | ARUSDT   | Assessing risk for SELL signal
+🧠 12:41:48.705 | RISK       | ARUSDT   | Position check: 0/15
+🧠 12:41:48.705 | RISK       | ARUSDT   | Max position size: $5,000,000
+🧠 12:41:48.705 | RISK       | ARUSDT   | Risk score: 0.117
+🧠 12:41:48.705 | EXECUTION  | ARUSDT   | Preparing SELL order for $5,000,000
+🧠 12:41:48.705 | EXECUTION  | ARUSDT   | Order details: 776397.515528 ARU
+🧠 12:41:48.705 | EXECUTION  | ARUSDT   | Order executed: DEMO_ARUSDT_1749107508
+🧠 12:41:48.705 | SIGNAL     | STXUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:48.705 | RISK       | STXUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.705 | RISK       | STXUSDT  | Position check: 0/15
+🧠 12:41:48.706 | RISK       | STXUSDT  | Max position size: $5,000,000
+🧠 12:41:48.706 | RISK       | STXUSDT  | Risk score: 0.117
+🧠 12:41:48.706 | EXECUTION  | STXUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.706 | EXECUTION  | STXUSDT  | Order details: 6666666.666667 STX
+🧠 12:41:48.706 | EXECUTION  | STXUSDT  | Order executed: DEMO_STXUSDT_1749107508
+🧠 12:41:48.706 | SIGNAL     | ICPUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.706 | RISK       | ICPUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.706 | RISK       | ICPUSDT  | Position check: 0/15
+🧠 12:41:48.706 | RISK       | ICPUSDT  | Max position size: $5,000,000
+🧠 12:41:48.706 | RISK       | ICPUSDT  | Risk score: 0.117
+🧠 12:41:48.706 | EXECUTION  | ICPUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.706 | EXECUTION  | ICPUSDT  | Order details: 961168.781238 ICP
+🧠 12:41:48.706 | EXECUTION  | ICPUSDT  | Order executed: DEMO_ICPUSDT_1749107508
+🧠 12:41:48.706 | SIGNAL     | ALGOUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.706 | RISK       | ALGOUSDT | Assessing risk for BUY signal
+🧠 12:41:48.706 | RISK       | ALGOUSDT | Position check: 0/15
+🧠 12:41:48.706 | RISK       | ALGOUSDT | Max position size: $5,000,000
+🧠 12:41:48.706 | RISK       | ALGOUSDT | Risk score: 0.117
+🧠 12:41:48.706 | EXECUTION  | ALGOUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.706 | EXECUTION  | ALGOUSDT | Order details: 26315789.473684 ALG
+🧠 12:41:48.706 | EXECUTION  | ALGOUSDT | Order executed: DEMO_ALGOUSDT_1749107508
+🧠 12:41:48.706 | SIGNAL     | XMRUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.706 | RISK       | XMRUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.706 | RISK       | XMRUSDT  | Position check: 0/15
+🧠 12:41:48.706 | RISK       | XMRUSDT  | Max position size: $5,000,000
+🧠 12:41:48.706 | RISK       | XMRUSDT  | Risk score: 0.117
+🧠 12:41:48.706 | EXECUTION  | XMRUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.706 | EXECUTION  | XMRUSDT  | Order details: 42122.999158 XMR
+🧠 12:41:48.706 | EXECUTION  | XMRUSDT  | Order executed: DEMO_XMRUSDT_1749107508
+🧠 12:41:48.706 | SIGNAL     | ZECUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.706 | RISK       | ZECUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.706 | RISK       | ZECUSDT  | Position check: 0/15
+🧠 12:41:48.706 | RISK       | ZECUSDT  | Max position size: $5,000,000
+🧠 12:41:48.706 | RISK       | ZECUSDT  | Risk score: 0.117
+🧠 12:41:48.706 | EXECUTION  | ZECUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.706 | EXECUTION  | ZECUSDT  | Order details: 100280.786201 ZEC
+🧠 12:41:48.706 | EXECUTION  | ZECUSDT  | Order executed: DEMO_ZECUSDT_1749107508
+🧠 12:41:48.706 | SIGNAL     | DASHUSDT | SELL signal (conf: 0.95)
+🧠 12:41:48.706 | RISK       | DASHUSDT | Assessing risk for SELL signal
+🧠 12:41:48.706 | RISK       | DASHUSDT | Position check: 0/15
+🧠 12:41:48.706 | RISK       | DASHUSDT | Max position size: $5,000,000
+🧠 12:41:48.706 | RISK       | DASHUSDT | Risk score: 0.117
+🧠 12:41:48.706 | EXECUTION  | DASHUSDT | Preparing SELL order for $5,000,000
+🧠 12:41:48.706 | EXECUTION  | DASHUSDT | Order details: 233535.730967 DAS
+🧠 12:41:48.706 | EXECUTION  | DASHUSDT | Order executed: DEMO_DASHUSDT_1749107508
+🧠 12:41:48.706 | SIGNAL     | SCRTUSDT | BUY signal (conf: 0.95)
+🧠 12:41:48.706 | RISK       | SCRTUSDT | Assessing risk for BUY signal
+🧠 12:41:48.706 | RISK       | SCRTUSDT | Position check: 0/15
+🧠 12:41:48.706 | RISK       | SCRTUSDT | Max position size: $5,000,000
+🧠 12:41:48.706 | RISK       | SCRTUSDT | Risk score: 0.117
+🧠 12:41:48.706 | EXECUTION  | SCRTUSDT | Preparing BUY order for $5,000,000
+🧠 12:41:48.706 | EXECUTION  | SCRTUSDT | Order details: 28264556.246467 SCR
+🧠 12:41:48.706 | EXECUTION  | SCRTUSDT | Order executed: DEMO_SCRTUSDT_1749107508
+🧠 12:41:48.706 | SIGNAL     | APTUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.706 | RISK       | APTUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.706 | RISK       | APTUSDT  | Position check: 0/15
+🧠 12:41:48.706 | RISK       | APTUSDT  | Max position size: $5,000,000
+🧠 12:41:48.706 | RISK       | APTUSDT  | Risk score: 0.117
+🧠 12:41:48.706 | EXECUTION  | APTUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.706 | EXECUTION  | APTUSDT  | Order details: 1045369.015262 APT
+🧠 12:41:48.706 | EXECUTION  | APTUSDT  | Order executed: DEMO_APTUSDT_1749107508
+🧠 12:41:48.706 | SIGNAL     | SUIUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.706 | RISK       | SUIUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.706 | RISK       | SUIUSDT  | Position check: 0/15
+🧠 12:41:48.706 | RISK       | SUIUSDT  | Max position size: $5,000,000
+🧠 12:41:48.706 | RISK       | SUIUSDT  | Risk score: 0.117
+🧠 12:41:48.706 | EXECUTION  | SUIUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.707 | EXECUTION  | SUIUSDT  | Order details: 1578731.331502 SUI
+🧠 12:41:48.707 | EXECUTION  | SUIUSDT  | Order executed: DEMO_SUIUSDT_1749107508
+🧠 12:41:48.707 | SIGNAL     | INJUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.707 | RISK       | INJUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.707 | RISK       | INJUSDT  | Position check: 0/15
+🧠 12:41:48.707 | RISK       | INJUSDT  | Max position size: $5,000,000
+🧠 12:41:48.707 | RISK       | INJUSDT  | Risk score: 0.117
+🧠 12:41:48.707 | EXECUTION  | INJUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.707 | EXECUTION  | INJUSDT  | Order details: 411184.210526 INJ
+🧠 12:41:48.707 | EXECUTION  | INJUSDT  | Order executed: DEMO_INJUSDT_1749107508
+🧠 12:41:48.707 | SIGNAL     | TIAUSDT  | SELL signal (conf: 0.95)
+🧠 12:41:48.707 | RISK       | TIAUSDT  | Assessing risk for SELL signal
+🧠 12:41:48.707 | RISK       | TIAUSDT  | Position check: 0/15
+🧠 12:41:48.707 | RISK       | TIAUSDT  | Max position size: $5,000,000
+🧠 12:41:48.707 | RISK       | TIAUSDT  | Risk score: 0.117
+🧠 12:41:48.707 | EXECUTION  | TIAUSDT  | Preparing SELL order for $5,000,000
+🧠 12:41:48.707 | EXECUTION  | TIAUSDT  | Order details: 2326663.564449 TIA
+🧠 12:41:48.707 | EXECUTION  | TIAUSDT  | Order executed: DEMO_TIAUSDT_1749107508
+🧠 12:41:48.707 | SIGNAL     | SEIUSDT  | BUY signal (conf: 0.95)
+🧠 12:41:48.707 | RISK       | SEIUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.707 | RISK       | SEIUSDT  | Position check: 0/15
+🧠 12:41:48.707 | RISK       | SEIUSDT  | Max position size: $5,000,000
+🧠 12:41:48.707 | RISK       | SEIUSDT  | Risk score: 0.117
+🧠 12:41:48.707 | EXECUTION  | SEIUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.707 | EXECUTION  | SEIUSDT  | Order details: 26028110.359188 SEI
+🧠 12:41:48.707 | EXECUTION  | SEIUSDT  | Order executed: DEMO_SEIUSDT_1749107508
+🧠 12:41:48.707 | SIGNAL     | LTCUSDT  | BUY signal (momentum: 0.87)
+🧠 12:41:48.707 | RISK       | LTCUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.707 | RISK       | LTCUSDT  | Position check: 0/15
+🧠 12:41:48.707 | RISK       | LTCUSDT  | Max position size: $5,000,000
+🧠 12:41:48.707 | RISK       | LTCUSDT  | Risk score: 0.142
+🧠 12:41:48.707 | EXECUTION  | LTCUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.707 | EXECUTION  | LTCUSDT  | Order details: 57201.693170 LTC
+🧠 12:41:48.707 | EXECUTION  | LTCUSDT  | Order executed: DEMO_LTCUSDT_1749107508
+🧠 12:41:48.707 | SIGNAL     | MKRUSDT  | BUY signal (momentum: 0.83)
+🧠 12:41:48.707 | RISK       | MKRUSDT  | Assessing risk for BUY signal
+🧠 12:41:48.707 | RISK       | MKRUSDT  | Position check: 0/15
+🧠 12:41:48.707 | RISK       | MKRUSDT  | Max position size: $5,000,000
+🧠 12:41:48.707 | RISK       | MKRUSDT  | Risk score: 0.157
+🧠 12:41:48.707 | EXECUTION  | MKRUSDT  | Preparing BUY order for $5,000,000
+🧠 12:41:48.707 | EXECUTION  | MKRUSDT  | Order details: 2804.262479 MKR
+🧠 12:41:48.707 | EXECUTION  | MKRUSDT  | Order executed: DEMO_MKRUSDT_1749107508
+127.0.0.1 - - [05/Jun/2025 12:41:50] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:50] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:50] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:50] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:50] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:52] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:52] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:52] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:52] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:52] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:54] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:54] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:54] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:54] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:54] "GET /api/algorithm-metrics HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:56] "GET /api/portfolio HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:56] "GET /api/market-data HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:56] "GET /api/signals HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:56] "GET /api/algorithm-thoughts HTTP/1.1" 200 -
+127.0.0.1 - - [05/Jun/2025 12:41:56] "GET /api/algorithm-metrics HTTP/1.1" 200 -

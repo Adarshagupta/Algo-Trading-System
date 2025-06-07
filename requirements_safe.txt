@@ -1,0 +1,41 @@
+# Core Dependencies
+python-binance==1.0.19
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Market Data & Analysis
+ccxt>=4.0.0
+plotly>=5.0.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# Data Management
+redis>=5.0.0
+pymongo>=4.6.0
+
+# Async & WebSocket
+websockets>=12.0
+aiohttp>=3.9.0
+
+# Configuration & Logging
+pyyaml>=6.0.0
+python-dotenv>=1.0.0
+structlog>=23.0.0
+
+# Testing & Development
+pytest>=7.4.0
+pytest-asyncio>=0.23.0
+jupyter>=1.0.0
+ipykernel>=6.27.0
+
+# Performance & Monitoring
+psutil>=5.9.0
+memory-profiler>=0.61.0
+
+# Risk Management
+scipy>=1.11.0
+
+# Real-time Processing - Skip numba and ta-lib for now
+# numba==0.58.1  # Can be installed separately if needed
+# ta-lib==0.4.28  # Requires system dependencies, install separately 

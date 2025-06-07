@@ -1,0 +1,58 @@
+# Environment
+hft_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git
+.mypy_cache
+.pytest_cache
+.hypothesis
+
+# Data and logs
+data/
+logs/
+*.log
+models/
+research/
+tests/
+
+# Large files
+*.pkl
+*.h5
+*.model
+*.weights
+
+# Notebooks
+*.ipynb
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencies (will be installed by Vercel)
+node_modules/ 
